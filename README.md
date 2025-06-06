@@ -1,6 +1,6 @@
 # Hey there! I'm Robert Koteles<br />Senior Frontend Developer, Tech Leader, Freelancer
 
-<img align="right" src="https://github.com/kotelesroberto/portfolio/assets/robertkoteles.jpg"/>
+<img align="right" src="https://raw.githubusercontent.com/kotelesroberto/portfolio/master/assets/robertkoteles.jpg" width="250px"/>
 
 <p>:briefcase: Currently available on the job market.</p>
 
