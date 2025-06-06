@@ -1,10 +1,13 @@
 <!-- Lead title and name -->
 
-# Hey there! <br /><br />I'm Robert Koteles<br /><br /><i>Senior Frontend Developer, Tech Leader, Freelancer</i>
+| Hey! <br />It's Robert Koteles here!                      | <img align="right" src="https://raw.githubusercontent.com/kotelesroberto/portfolio/master/assets/robertkoteles.jpg" width="20%" height="auto"/> |
+| --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| <i>Senior Frontend Developer, Tech Leader, Freelancer</i> |                                                                                                                                                 |
 
 <!-- Photo of me -->
-
-<img align="right" src="https://raw.githubusercontent.com/kotelesroberto/portfolio/master/assets/robertkoteles.jpg" width="100%"/>
+<div>
+  
+</div>
 
 <!-- Table of Contents -->
 
@@ -12,7 +15,7 @@
 
 - [Summary](#loudspeaker-summary)
 - [Contact me](#mailbox-where-could-you-find-me)
-- [Skills](#wrench-languages-libraries-frameworks)
+- [Skills](#wrench-languages-libraries--frameworks)
 - [Portfolio](#bulb-some-of-my-portfolio-items)
   - [Corporate projects](#necktie-corporate-projects)
   - [Private projects](#shirt-private-projects)
