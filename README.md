@@ -2,12 +2,13 @@
 
 # :sunglasses: Introduction
 
-### Hey, it's Robert Koteles here!<i>Senior Frontend Developer, Tech Leader, Freelancer</i>
+### Hey, it's Robert Koteles here!
+
+<i>Senior Frontend Developer, Tech Leader, Freelancer</i>
 
 <!-- Photo of me -->
-<div>
-  <img align="right" src="https://raw.githubusercontent.com/kotelesroberto/portfolio/master/assets/robertkoteles.jpg" width="20%" height="auto"/> 
-</div>
+
+![Robert Koteles, Senior Frontend Developer](https://raw.githubusercontent.com/kotelesroberto/portfolio/master/assets/robertkoteles.jpg)
 
 <!-- Table of Contents -->
 
@@ -166,21 +167,11 @@
 
 ## :handshake: Recommendations
 
-<p>
-  <img align="left" src="https://raw.githubusercontent.com/kotelesroberto/portfolio/master/assets/recommendation_victoria_holland.png" width="100%"/>
-</p>
-<p>
-  <img align="left" src="https://raw.githubusercontent.com/kotelesroberto/portfolio/master/assets/recommendation_reece_tiwari.png" width="100%"/>
-</p>
-<p>
-  <img align="left" src="https://raw.githubusercontent.com/kotelesroberto/portfolio/master/assets/recommendation_gavin_mannings.png" width="100%"/>
-</p>
-<p>
-  <img align="left" src="https://raw.githubusercontent.com/kotelesroberto/portfolio/master/assets/recommendation_guy_cross.png" width="100%"/>
-</p>
-<p>
-  <img align="left" src="https://raw.githubusercontent.com/kotelesroberto/portfolio/master/assets/recommendation_krishna_sapkota.png" width="100%"/>
-</p>
+![Recommendation by Victoria Holland](https://raw.githubusercontent.com/kotelesroberto/portfolio/master/assets/recommendation_victoria_holland.png)
+![Recommendation by Reece Tiwari](https://raw.githubusercontent.com/kotelesroberto/portfolio/master/assets/recommendation_reece_tiwari.png)
+![Recommendation by Gavin Mannings](https://raw.githubusercontent.com/kotelesroberto/portfolio/master/assets/recommendation_gavin_mannings.png)
+![Recommendation by Guy Cross](https://raw.githubusercontent.com/kotelesroberto/portfolio/master/assets/recommendation_guy_cross.png)
+![Recommendation by Dr. Krishna Sapkota](https://raw.githubusercontent.com/kotelesroberto/portfolio/master/assets/recommendation_krishna_sapkota.png)
 
 [badge-linkedin]: https://img.shields.io/static/v1?label=%20&message=linkedin&labelColor=0077B5&color=0077B5&style=flat-square&logo=linkedin
 [link-linkedin]: https://www.linkedin.com/in/robertkoteles/
