@@ -47,7 +47,7 @@
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | [<img src="https://cdn.simpleicons.org/macos" title="MacOS" alt="MacOS" width="48">](https://www.apple.com/macos/ventura/) [<img src="https://cdn.svgporn.com/logos/microsoft-windows-icon.svg" title="Windows 11" alt="Windows 11" width="48">](https://www.microsoft.com/en-us/windows/) [<img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" title="Visual Studio Code" alt="Visual Studio Code" width="48">](https://code.visualstudio.com/) [<img src="https://cdn.simpleicons.org/npm" title="Npm" alt="Npm" width="48">](https://www.npmjs.com/) [<img src="https://cdn.simpleicons.org/git" title="Git" alt="Git" width="48">](https://git-scm.com/) [<img src="https://cdn.simpleicons.org/github" title="GitHub" alt="GitHub" width="48">](https://github.com/) [<img src="https://cdn.simpleicons.org/figma" title="Figma" alt="Figma" width="48">](https://www.figma.com/) [<img src="https://cdn.simpleicons.org/jira" title="Jira" alt="Jira" width="48">](https://www.atlassian.com/software/jira) [<img src="https://cdn.simpleicons.org/confluence" title="Confluence" alt="Confluence" width="48">](https://www.atlassian.com/software/confluence) [<img src="https://cdn.simpleicons.org/githubactions" title="GitHub Actions" alt="GitHub Actions" width="48">](https://github.com/features/actions) [<img src="https://cdn.simpleicons.org/semanticrelease" title="Semantic Release" alt="Semantic Release" width="48">](https://semantic-release.gitbook.io/semantic-release/) [<img src="https://cdn.simpleicons.org/sonarcloud" title="SonarCloud" alt="SonarCloud" width="52">](https://www.sonarsource.com/products/sonarcloud/) | [<img src="https://cdn.svgporn.com/logos/github-copilot.svg" title="GitHub Copilot" alt="GitHub Copilot" width="48">](https://github.com/features/copilot/) | [<img src="https://cdn.simpleicons.org/vercel" title="Vercel" alt="Vercel" width="48">](https://vercel.com/) [<img src="https://cdn.simpleicons.org/netlify" title="Netlify" alt="Netlify" width="48">](https://www.netlify.com/) [<img src="https://cdn.simpleicons.org/railway" title="Railway" alt="Railway" width="48">](https://www.railway.app/) [<img src="https://cdn.simpleicons.org/codecov" title="Codecov" alt="Codecov" width="48">](https://codecov.io/) [<img src="https://cdn.svgporn.com/logos/microsoft-azure.svg" title="Azure DevOps" alt="Azure DevOps" width="48">](https://azure.microsoft.com/en-us/services/devops/) [<img src="https://cdn.simpleicons.org/digitalocean" title="DigitalOcean" alt="DigitalOcean" width="48">](https://www.digitalocean.com/) [<img src="https://financesonline.com/uploads/2018/09/Microsoft-Team-Foundation-Server-logo-1.png" title="Team Foundation Server" alt="Team Foundation Server" width="110">](https://docs.microsoft.com/en-us/azure/devops/server/tfs-is-now-azure-devops-server?view=azure-devops-2020) | [<img src="https://cdn.simpleicons.org/postman" title="Postman" alt="Postman" width="48">](https://www.postman.com/) [<img src="https://cdn.svgporn.com/logos/visual-studio.svg" title="Visual Studio" alt="Visual Studio" width="48">](https://visualstudio.microsoft.com/vs/) [<img src="https://cdn.simpleicons.org/docker" title="Docker" alt="Docker" width="52">](https://www.docker.com/) [<img src="https://cdn.simpleicons.org/gitlab" title="GitLab" alt="GitLab" width="48">](https://about.gitlab.com/) [<img src="https://cdn.simpleicons.org/bitbucket" title="BitBucket" alt="BitBucket" width="48">](https://bitbucket.org/) [<img src="https://cdn.simpleicons.org/heroku" title="Heroku" alt="Heroku" width="48">](https://www.heroku.com/) |
 
-### 👇 Lastly, here goes the selection of my portfolio items for you 👇
+## Some of my portfolio items
 
 #### Corporate projects
 
@@ -94,6 +94,14 @@
   <li><a href="projects/fixlife_pension" target="_self">Pension and Life Insurance Calculator</a></li>
 </ul>
 
+## Awards
+
+<ul>
+  <li><a href="" target="_blank">The Webby Awards, Websites/Best Practices, 2020</a></li>
+  <li><a href="" target="_blank">Corporate Financial Awards, Bronze (Enterprise Inns Plc.), 2016</a></li>
+  <li><a href="" target="_blank">Social Media Awards, 1st place (best Facebook business page), 2011</a></li>
+</ul>
+
 ## References
 
 <ul>
@@ -120,7 +128,21 @@
   </li>
 </ul>
 
+<!-- Recommendations -->
+
+## :handshake: Recommendations
+
+<p>
+  <img align="left" src="https://raw.githubusercontent.com/kotelesroberto/portfolio/master/assets/recommendation_victoria_holland.png" width="250px"/>
+</p>
+<p>
+  <img align="left" src="https://raw.githubusercontent.com/kotelesroberto/portfolio/master/assets/recommendation_reece_tiwari.png" width="250px"/>
+</p>
+<p>
+  <img align="left" src="https://raw.githubusercontent.com/kotelesroberto/portfolio/master/assets/recommendation_gavin_mannings.png" width="250px"/>
+</p>
+
 [badge-linkedin]: https://img.shields.io/static/v1?label=%20&message=linkedin&labelColor=0077B5&color=0077B5&style=flat-square&logo=linkedin
 [link-linkedin]: https://www.linkedin.com/in/robertkoteles/
-[badge-github]: https://img.shields.io/static/v1?label=%20&message=linkedin&labelColor=0077B5&color=0077B5&style=flat-square&logo=linkedin
+[badge-github]: https://img.shields.io/static/v1?label=%20&message=github&labelColor=0077B5&color=0077B5&style=flat-square&logo=github
 [link-github]: https://github.com/kotelesroberto
