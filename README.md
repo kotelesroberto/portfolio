@@ -141,6 +141,12 @@
 <p>
   <img align="left" src="https://raw.githubusercontent.com/kotelesroberto/portfolio/master/assets/recommendation_gavin_mannings.png" width="250px"/>
 </p>
+<p>
+  <img align="left" src="https://raw.githubusercontent.com/kotelesroberto/portfolio/master/assets/recommendation_guy_cross.png" width="250px"/>
+</p>
+<p>
+  <img align="left" src="https://raw.githubusercontent.com/kotelesroberto/portfolio/master/assets/recommendation_krishna_sapkota.png" width="250px"/>
+</p>
 
 [badge-linkedin]: https://img.shields.io/static/v1?label=%20&message=linkedin&labelColor=0077B5&color=0077B5&style=flat-square&logo=linkedin
 [link-linkedin]: https://www.linkedin.com/in/robertkoteles/
