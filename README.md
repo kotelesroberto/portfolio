@@ -1,12 +1,12 @@
 <!-- Lead title and name -->
 
-| Hey! <br />It's Robert Koteles here!                      | <img align="right" src="https://raw.githubusercontent.com/kotelesroberto/portfolio/master/assets/robertkoteles.jpg" width="20%" height="auto"/> |
-| --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| <i>Senior Frontend Developer, Tech Leader, Freelancer</i> |                                                                                                                                                 |
+# :sunglasses: Introduction
+
+### Hey, it's Robert Koteles here!<i>Senior Frontend Developer, Tech Leader, Freelancer</i>
 
 <!-- Photo of me -->
 <div>
-  
+  <img align="right" src="https://raw.githubusercontent.com/kotelesroberto/portfolio/master/assets/robertkoteles.jpg" width="20%" height="auto"/> 
 </div>
 
 <!-- Table of Contents -->
