@@ -16,10 +16,13 @@ Maybe you can mention me or this repo in the acknowledgements too
   </p>
    
   <h4>
-    <a href="https://beta.pharmacopoeia.com/" target="_blank">View Demo</a>
+    <a href="#" target="_blank"><s>View Demo (company secret)</s></a>
   </h4>
   <h4>
     <a href="https://youtu.be/Qv2ppnCHLsg"  target="_blank">Watch Youtube video</a>
+  </h4>
+  <h4>
+    <a href="#" title="Sorry, it's company secret"  target="_blank"><s>View code (company secret)</s></a>
   </h4>
 
 </div>
@@ -35,6 +38,7 @@ Maybe you can mention me or this repo in the acknowledgements too
   - [Tech Stack](#space_invader-tech-stack)
   - [Features](#dart-features)
   - [Environment Variables](#key-environment-variables)
+- [My contribution to the project](#white_check_mark-my-contribution-to-the-project)
 - [License](#warning-license)
 - [Contact](#handshake-contact)
 
@@ -113,9 +117,15 @@ The final webapp was easy-to-access, user-friiendly with a detailed search funct
 
 - Accessibility level: AA
 - Mobile first, full responsive solution
-- User friendly customer portal as a web app
-- Wide selection of actions on the page: get a quote, compare plans, manage user data, secure login/logout, etc.
-- It follows the CBG (Company Brand Guideline)
+- Manage pages, images, PDF documents
+- Bespoken editorial plugins for making the life of page admins easier
+- It follows the CBG (Company Brand Guideline) and GDS (Governmental Design System)
+
+<!-- My contribution to the project -->
+
+## :white_check_mark: My contribution to the project
+
+My active participation helped the team to shape new ideas and way of coding. I always had new ideas to introduce into the business. Mentorating other developers was one of my daily tasks. Rest of my tasks were leading meetings, searching Government-related informations and solutions. We worked in 2 weeks Sprints and all deadlines were strictly kept and the project was finished within the budget.
 
 <!-- License -->
 
