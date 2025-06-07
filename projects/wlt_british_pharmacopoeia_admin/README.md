@@ -16,10 +16,10 @@ Maybe you can mention me or this repo in the acknowledgements too
   </p>
    
   <h4>
-    <a href="https://beta.pharmacopoeia.com/">View Demo</a>
+    <a href="https://beta.pharmacopoeia.com/" target="_blank">View Demo</a>
   </h4>
   <h4>
-    <a href="https://youtu.be/Qv2ppnCHLsg">Watch Youtube video</a>
+    <a href="https://youtu.be/Qv2ppnCHLsg"  target="_blank">Watch Youtube video</a>
   </h4>
 
 </div>
