@@ -10,6 +10,8 @@
 
 ![Robert Koteles, Senior Frontend Developer](https://raw.githubusercontent.com/kotelesroberto/portfolio/master/assets/robertkoteles.jpg)
 
+<img align="right" src="https://raw.githubusercontent.com/kotelesroberto/portfolio/master/assets/pusheencode.gif"/>
+
 <!-- Table of Contents -->
 
 # :notebook_with_decorative_cover: Table of Contents
