@@ -129,12 +129,12 @@ The final webapp was easy-to-access, user-friendly with a detailed search functi
 - Accessibility level: AA
 - Mobile first, full responsive solution
 - User friendly web portal for users with subscriptions
-- Subscribe to different plans
-- Browse within publications and catalogues
-- Shop (publications and reference standards)
-- News reel
-- Connect to social media and LinkedIn trough secure API
-- All content is done by using bespoken CMS
+- Browse within the rules
+- Deep search function
+- Multi modal system
+- Strict cookie policy system using local storage
+- Shop function
+- All content is done by using bespoken CMS, based on an existing PDF version of the rule set
 - It follows the CBG (Company Brand Guideline) and GDS (Governmental Design System)
 
 <!-- My contribution to the project -->
