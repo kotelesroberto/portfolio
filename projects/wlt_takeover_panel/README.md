@@ -66,6 +66,7 @@ Maybe you can mention me or this repo in the acknowledgements too
     </li>
     <li>document management</li>
     <li>Cookie policy management throughout the entire website</li>
+    <li>Location sensitive multi modal system</li>
   </ul>
 </p>
 <p>
