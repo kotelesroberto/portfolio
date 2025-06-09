@@ -16,13 +16,7 @@ Maybe you can mention me or this repo in the acknowledgements too
   </p>
    
   <h4>
-    <a href="https://www.thetakeoverpanel.org.uk/" target="_blank">View Demo (old site)</a>
-  </h4>
-  <h4>
-    <a href="https://www.qa.code.takeoverpanel.tso.co.uk/tp" target="_blank">View Demo (new site, password protected)</a>
-  </h4>
-  <h4>
-    <a href="https://youtu.be/I6-fDVan8mc"  target="_blank">Watch Youtube video</a>
+    <a href="#" target="_blank"><s>View Demo (it was available for a presentation on a QA server)</s></a>
   </h4>
   <h4>
     <a href="#" title="Sorry, it's company secret"  target="_blank"><s>View code (company secret)</s></a>
