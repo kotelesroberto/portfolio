@@ -40,7 +40,6 @@ Maybe you can mention me or this repo in the acknowledgements too
   - [Screenshots](#camera-screenshots)
   - [Tech Stack](#space_invader-tech-stack)
   - [Features](#dart-features)
-  - [Environment Variables](#key-environment-variables)
 - [My contribution to the project](#white_check_mark-my-contribution-to-the-project)
 - [License](#warning-license)
 - [Contact](#handshake-contact)
