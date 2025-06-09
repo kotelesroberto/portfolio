@@ -65,7 +65,7 @@ Maybe you can mention me or this repo in the acknowledgements too
   </ul>
 </p>
 <p>
-The final webapp was easy-to-access, user-friiendly with a detailed search function. Every forumlas are displayed with proper indexes. The site was full responsive with mobile-first approach.
+The final webapp was easy-to-access, user-friendly with a detailed search function. Every forumlas are displayed with proper indexes. The site was full responsive with mobile-first approach.
 </p>
 
 <!-- Screenshots -->

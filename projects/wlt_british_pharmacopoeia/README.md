@@ -46,7 +46,7 @@ Maybe you can mention me or this repo in the acknowledgements too
 
 ## :star2: About the Project
 
-<p>The project itself was about building a professional website for users with subscription. Based on thir plan the users access to different level of contents and documents.
+<p>The project itself was about building a professional website for users with subscription. Based on their plan the users access to different level of contents and documents.
 </p>
 <p>The content of the site was fully created by in-house CMS system where the TinyMCE editor had bespoken plugins (developed by me) to make content management super easy: teasers, formulas, accordions, BF unique elements, etc. All formules are perfectly displayed on all screen.</p>
 <p></p>
@@ -67,7 +67,7 @@ Maybe you can mention me or this repo in the acknowledgements too
   </ul>
 </p>
 <p>
-The final webapp was easy-to-access, user-friiendly with a detailed search function. Every forumlas are displayed with proper indexes. The site was full responsive with mobile-first approach.
+The final webapp was easy-to-access, user-friendly with a detailed search function. Every forumlas are displayed with proper indexes. The site was full responsive with mobile-first approach.
 </p>
 
 <!-- Screenshots -->
