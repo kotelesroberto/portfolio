@@ -64,7 +64,7 @@ Maybe you can mention me or this repo in the acknowledgements too
     <li>mobile first, full responsive</li>
     <li>all content comes from JSON file with asyncronous RestAPI call</li>
     <li>images were stored on Heroku server</li>
-    <li>the AEM CMS was quite restricted, therefore this cmparison tool, as an extra layout, was added to the site with Adobe A/B testing injection into the header, so the relevant JavaScript code was added asyncronous and added after the page load event.</li>
+    <li>the AEM CMS was quite restricted, therefore this comparison tool, as an extra layout, was added to the site with Adobe A/B testing injection into the header, so the relevant JavaScript code was added asyncronous and added after the page load event.</li>
     <li>build a business logic for the compared devices</li>
     <li>each properties of the products were possible to show/hide, also include/exclude from the comparison</li>
     <li>by scrolling the webpage the selected items shown up at the bottom of the screen, on a stripe</li>
