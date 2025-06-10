@@ -48,8 +48,6 @@ Maybe you can mention me or this repo in the acknowledgements too
 <p>Samsung UK is the British division of Samsung Electronics, a global technology leader based in South Korea. It operates through its official website <a href="https://www.samsung.com/uk">samsung.com/uk</a>, physical retail stores, and business partnerships to serve both consumers and enterprises across the United Kingdom.</p>
 <p>The brand of Samsung is known by almost everyone. Their webpage offering the full range of Samsung hardware: smartphones, tablets, TVs, wearables, home appliances, computers, accessories, smart displays, and mores.</p>
 
-<p>Developing plugins for the TinyMCE editor was exclusively my task. All new plugins written by me were dedicated for special features, such as creating chemical formulas and convert into HTML5 shape, teasers, etc. Basket function was a harder part of the development as more variations the customer wanted to have.</p>
-
 <p><h4>Main functions of the website:</h4></p>
 <ul>
   <li><strong>Product Retail:</strong> Sells Samsung's full range of electronics and appliances, including smartphones (like Galaxy devices), TVs, tablets, wearables, laptops, monitors, and smart home devices.</li>
