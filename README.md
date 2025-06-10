@@ -50,6 +50,7 @@
 
 [![My LinkedIn | robertkoteles][badge-linkedin]][link-linkedin]
 [![My GitHub | kotelesroberto][badge-github]][link-github]
+[![My Youtube | robertkotelesfrontendwebde6833][badge-youtube]][link-youtube]
 
 <!--
   List for tech table references
@@ -182,3 +183,5 @@
 [link-linkedin]: https://www.linkedin.com/in/robertkoteles/
 [badge-github]: https://img.shields.io/static/v1?label=%20&message=github&labelColor=0077B5&color=0077B5&style=flat-square&logo=github
 [link-github]: https://github.com/kotelesroberto
+[badge-youtube]: https://img.shields.io/static/v1?label=%20&message=youtube&labelColor=CD201F&color=CD201F&style=flat-square&logo=youtube
+[link-youtube]: https://www.youtube.com/@robertkotelesfrontendwebde6833
