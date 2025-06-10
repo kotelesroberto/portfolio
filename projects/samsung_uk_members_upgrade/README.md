@@ -68,28 +68,44 @@ Maybe you can mention me or this repo in the acknowledgements too
   </ul>
 </p>
 
-<p><h4>Features for this project, developed by me:</h4>
+<p><h4>Features of this project</h4>
   <ul>
-    <li>data of all devices and variation of the devices were loaded from JSON file, on an asyncronous way</li>
-    <li>user could select the device and all possible combination of colours, internal memory size</li>
-    <li>created pixel-perfect layout for every devices, all screen sizes and type of SIMs</li>
-    <li>trade-in option was integrated</li>
-    <li>devices were identified by their SKU number</li>
+    <li>user could select from the brand new devices and all possible combination of colours, internal memory sizes --> device customization</li>
     <li>each SKU had a list of eligible devices to trade in within the Samsung Upgrade program</li>
-    <li>smart error handling functions were written by me</li>
+    <li>responsive image carousel</li>
+    <li>stock information (comes from Samsung stock API)</li>
+    <li>upfront cost and monthly payment arecalculated by external financial service</li>
+    <li>tabbed content to show explanation of technical parameters of the phones / tablets</li>
+    <li>product sensitive content to show after selection</li>
+    <li>trade-in panel: users could use their old devices to reduce the price of their new device</li>
+    <li>trade-in condition calculation, based on the given answers (Grade A, B, C)</li>
+    <li>dynamic FAQ as accordion element</li>
+    <li>specifications to compare</li>
+    <li>disclaimer</li>
+    <li>eCommerce basket and checkout page</li>
+    <li>integrated <a href="https://www.dekopay.com/">DekoPay</a> payment</li>
+  </ul>
+</p>
+
+<p><h4>Technical parameters of this project, developed by me:</h4>
+  <ul>
+    <li>created pixel-perfect layout for every devices, all screen sizes and type of SIMs</li>
+    <li>mobile first, full responsive</li>
+    <li>all initial content comes from  JSON file</li>
+    <li>data of all devices and variation of the devices were loaded from JSON file, on an asyncronous way</li>
+    <li>devices were identified by their SKU number</li>
+    <li>trade-in panel: estimated prices of the old devices are fetched from Samsung API, all data comes from asyncronous API calls</li>
+    <li>smart error handling functions</li>    
     <li>IMEI checker function (Luhn algorithm)</li>
     <li>currency formatter functions</li>
     <li>customer validation API</li>
-    <li>SHOP feature with integrated payment system</li>
-    <li>actual price and stock infomration was loaded from </li>
-    <li>mobile first, full responsive</li>
-    <li>all content comes from  JSON file</li>
+    <li>SHOP feature with integrated payment system provided by <a href="https://www.dekopay.com/">DekoPay</a></li>
+    <li>actual price and stock information was loaded by using Samsung API data source</li>
     <li>images were stored on AWS</li>
     <li>intelligent state management</li>
-    <li>inegrated API calls for Trade in devices feature</li>
     <li>prices and stick information was provided by the official Samsung sticking management system</li>
     <li>optimized page loading time, compressed images, compressed JS content into one file, browser cache to store what was loaded once, so the solution saved bandwith for the next page load</li>
-    <p>had to load the content from an XML/JSON file than process it (JSON stringify) and create a representation of the data in the memory</p>
+    <li>had to load the content from an XML/JSON file than process it (JSON stringify) and create a representation of the data in the memory</li>
   </ul>
 </p>
 
@@ -141,6 +157,8 @@ The final webapp was easy-to-access, user-friendly and soooo cool! It was full r
     <li><a href="https://bitbucket.org/">BitBucket</a></li>
     <li><a href="https://www.jslint.com/">JS Lint</a></li>
     <li><a href="#">Bespoken content scraper on the local development</a></li>
+    <li><a href="https://www.postman.com/">PostMan</a></li>
+    
   </ul>
 </details>
 
