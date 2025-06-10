@@ -63,19 +63,31 @@ Maybe you can mention me or this repo in the acknowledgements too
     <li>create pixel-perfect layout for every devices, all screen sizes</li>
     <li>mobile first, full responsive</li>
     <li>all content comes from JSON file with asyncronous RestAPI call</li>
-    <li>images were stored on Heroku server</li>
-    <li>the AEM CMS was quite restricted, therefore this cmparison tool, as an extra layout, was added to the site with Adobe A/B testing injection into the header, so the relevant JavaScript code was added asyncronous and added after the page load event.</li>
-    <li>build a business logic for the compared devices</li>
-    <li>TODO add more....</li>
+    <li>images were stored on AWS and spread with CDN</li>
+    <li>build a business logic for the upgrade tool</li>
   </ul>
 </p>
 
 <p><h4>Features for this project, developed by me:</h4>
   <ul>
-    <li>created pixel-perfect layout for every devices, all screen sizes</li>
+    <li>data of all devices and variation of the devices were loaded from JSON file, on an asyncronous way</li>
+    <li>user could select the device and all possible combination of colours, internal memory size</li>
+    <li>created pixel-perfect layout for every devices, all screen sizes and type of SIMs</li>
+    <li>trade-in option was integrated</li>
+    <li>devices were identified by their SKU number</li>
+    <li>each SKU had a list of eligible devices to trade in within the Samsung Upgrade program</li>
+    <li>smart error handling functions were written by me</li>
+    <li>IMEI checker function (Luhn algorithm)</li>
+    <li>currency formatter functions</li>
+    <li>customer validation API</li>
+    <li>SHOP feature with integrated payment system</li>
+    <li>actual price and stock infomration was loaded from </li>
     <li>mobile first, full responsive</li>
     <li>all content comes from  JSON file</li>
-    <li>images were stored on Heroku server</li>
+    <li>images were stored on AWS</li>
+    <li>intelligent state management</li>
+    <li>inegrated API calls for Trade in devices feature</li>
+    <li>prices and stick information was provided by the official Samsung sticking management system</li>
     <li>optimized page loading time, compressed images, compressed JS content into one file, browser cache to store what was loaded once, so the solution saved bandwith for the next page load</li>
     <p>had to load the content from an XML/JSON file than process it (JSON stringify) and create a representation of the data in the memory</p>
   </ul>
@@ -101,6 +113,12 @@ The final webapp was easy-to-access, user-friendly and soooo cool! It was full r
   <summary>Client</summary>
   <ul>
     <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"  target="_blank">JavaScript</a></li>
+    <li><a href="https://jquery.com/"  target="_blank">JQuery</a></li>
+    <li><a href="https://handlebarsjs.com/"  target="_blank">Handlebars templating</a></li>
+    <li><a href="https://nodejs.org"  target="_blank">NodeJS</a></li>
+    <li><a href="https://nodejs.org/api/esm.html"  target="_blank">Node.js Modules</a></li>
+    <li><a href="https://browserify.org/"  target="_blank">Browserify</a></li>
+    <li><a href="https://lodash.com/"  target="_blank">lodash performance optimalization</a></li>
     <li><a href=https://business.adobe.com/products/experience-manager/adobe-experience-manager.html">AEM 6.4</a></li>
     <li><a href="https://www.w3schools.com/html/html5_semantic_elements.asp" target="_blank">Semantic HTML5</a></li>
     <li><a href="https://www.w3schools.com/css/"  target="_blank">CSS3</a></li>
