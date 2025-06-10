@@ -96,7 +96,8 @@
   <li><a href="projects/wlt_fca" target="_self">FCA</a></li>
   <li><a href="projects/samsung_uk" target="_self">Samsung UK</a></li>
   <li><a href="projects/samsung_uk_comparison_tool" target="_self">Samsung UK - Comparison Tool</a></li>
-  <li><a href="projects/samsung_uk_members_upgrade" target="_self">Samsung UK - Samsung Members Upgrade</a></li>
+  <li><a href="projects/samsung_uk_members_upgrade" target="_self">Samsung UK - Samsung Upgrade Lounge and Members Upgrade</a></li>
+  <li><a href="projects/samsung_uk_help_me_choose" target="_self">Samsung UK - Help me choose (Galaxy A series phones and QLED TVs)</a></li>
   <li><a href="projects/knox_projectmanager_integration" target="_self">KNOX >>> Projectmanager.com data integrator</a></li>
   <li><a href="projects/wlt_sirai_house" target="_self">Sirai House</a></li>
   <li><a href="projects/wlt_six_stories" target="_self">Six Storeys</a></li>
