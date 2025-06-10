@@ -1,25 +1,14 @@
-<!--
-Hey, thanks for using the awesome-readme-template template.
-If you have any enhancements, then fork this project and create a pull request
-or just open an issue with the label "enhancement".
-
-Don't forget to give this project a star for additional support ;)
-Maybe you can mention me or this repo in the acknowledgements too
--->
 <div align="center">
   <img src="assets/samsung-logo.png" alt="logo" width="200" height="auto" />
 
   <h1>Samsung UK - Help me choose (Cheil)</h1>
   
-  <p>
+<p align="left">
     I worked on this project whilst worked at Cheil UK, London. This company is an internal agency of the Samsung company. Way of working at this company was in the office but COVID-19 had broke out and started <strong>working from home</strong>.
   </p>
    
   <h4>
     <a href="https://www.samsung.com/uk/" target="_blank"><s>View site</s></a>
-  </h4>
-  <h4>
-    <a href="https://www.youtube.com/watch?v=k_pkEI67mPo"  target="_blank">Watch Youtube video</a>
   </h4>
   <h4>
     <a href="#" title="Sorry, it's company secret"  target="_blank"><s>View code (company secret)</s></a>
@@ -33,6 +22,7 @@ Maybe you can mention me or this repo in the acknowledgements too
 
 # :notebook_with_decorative_cover: ToC
 
+- [About the company](#family-about-the-company)
 - [About the Project](#star2-about-the-project)
   - [Screenshots](#camera-screenshots)
   - [Tech Stack](#space_invader-tech-stack)
@@ -41,9 +31,9 @@ Maybe you can mention me or this repo in the acknowledgements too
 - [License](#warning-license)
 - [Contact](#handshake-contact)
 
-<!-- About the Project -->
+<!-- About the Company -->
 
-## :star2: About the Project
+## :family: About the Company
 
 <p>Samsung UK is the British division of Samsung Electronics, a global technology leader based in South Korea. It operates through its official website <a href="https://www.samsung.com/uk">samsung.com/uk</a>, physical retail stores, and business partnerships to serve both consumers and enterprises across the United Kingdom.</p>
 <p>The brand of Samsung is known by almost everyone. Their webpage offering the full range of Samsung hardware: smartphones, tablets, TVs, wearables, home appliances, computers, accessories, smart displays, and mores.</p>
@@ -54,7 +44,10 @@ Maybe you can mention me or this repo in the acknowledgements too
   <li><strong>Customer Support:</strong> Offers in-depth support through online help, live chat, telephone assistance, in-store visits, and at-home repair services.</li>
   <li><strong>Repair Services:</strong> Provides official repair solutions—via courier, in-store, or mobile technicians—as well as a self-repair program for DIY fixes using genuine parts.</li>
 </ul>
-<p></p>
+
+<!-- About the Project -->
+
+## :star2: About the Project
 
 <p><h4>Features of this project</h4>
   <ul>
