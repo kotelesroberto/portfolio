@@ -108,6 +108,8 @@ The final webapp was easy-to-access, user-friendly and soooo cool! It was full r
     <li><a href=https://business.adobe.com/products/experience-manager/adobe-experience-manager.html">AEM 6.4</a></li>
     <li><a href="https://www.w3schools.com/html/html5_semantic_elements.asp" target="_blank">Semantic HTML5</a></li>
     <li><a href="https://www.w3schools.com/css/"  target="_blank">CSS3</a></li>
+    <li><a href="https://developer.samsung.com/design-system/font"  target="_blank">Samsung Fonts</a></li>
+    <li><a href="https://developer.samsung.com/design"  target="_blank">Samsung Design Principles</a></li>
   </ul>
 </details>
 
