@@ -144,7 +144,8 @@ The final webapp was easy-to-access, user-friendly and soooo cool! It was full r
 
 ## :white_check_mark: My contribution to the project
 
-This entire project belonged to me, from the beginning until the end of it. I had to manage thedesign team and had my hands on the design processes. After having the design FIGMA pages I created teh webapp from scratch and used Adobe A/B test to inject the solution into the AEM pages. Had to create an injection ruke as the solution (and its content) was developed for specific pages (for instance: comparison of mobile phones was only visible on smartphone pages). For testing during teh develpoment phase I used BroswerStack and multiple real devices, also the in-built Chrome DevTools.
+<p>This entire project belonged to me, from the beginning until the end of it. I had to manage thedesign team and had my hands on the design processes. After having the design FIGMA pages I created teh webapp from scratch and used Adobe A/B test to inject the solution into the AEM pages. Had to create an injection ruke as the solution (and its content) was developed for specific pages (for instance: comparison of mobile phones was only visible on smartphone pages). For testing during the develpoment phase I used BroswerStack and multiple real devices, also the in-built Chrome DevTools.</p>
+<p>Based on the insights this comparison tool created a significant rise in sales that ended up in a visible extra profit for Samsung UK.</p>
 
 <!-- License -->
 
