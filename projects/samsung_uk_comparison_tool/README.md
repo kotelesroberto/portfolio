@@ -114,7 +114,8 @@ The final webapp was easy-to-access, user-friendly and soooo cool! It was full r
 <details>
 <summary>Database</summary>
   <ul>
-    <li><a href="https://www.json.org/">in an XML/JSON file</a></li>
+    <li><a href="https://www.json.org/">data stored in an XML/JSON file</a></li>
+    <li><a href="https://www.heroku.com/">HEROKU</a></li>
   </ul>
 </details>
 
@@ -155,5 +156,5 @@ Distributed under the Software copyright of Williams Lea Tag. Any non-authorized
 
 ## :handshake: Contact
 
-Williams Lea Tag -
-[https://www.williamslea.com/](https://www.williamslea.com/), 1-5 Poland St, London W1F 8PR
+Cheil UK -
+[https://cheil.uk/](https://cheil.uk/), London Office: 10 Queen Street Place, London, EC4R 1BE
