@@ -9,7 +9,7 @@ Maybe you can mention me or this repo in the acknowledgements too
 <div align="center">
   <img src="assets/samsung-logo.png" alt="logo" width="200" height="auto" />
 
-  <h1>Samsung UK - Members Upgrade (Cheil)</h1>
+  <h1>Samsung UK - Upgrade Lounge, Members Upgrade (Cheil)</h1>
   
   <p>
     I worked on this project whilst worked at Cheil UK, London. This company is an internal agency of the Samsung company. Way of working at this company was in the office but COVID-19 had broke out and started <strong>working from home</strong>.
@@ -20,6 +20,12 @@ Maybe you can mention me or this repo in the acknowledgements too
   </h4>
   <h4>
     <a href="https://www.youtube.com/watch?v=k_pkEI67mPo"  target="_blank">Watch Youtube video</a>
+  </h4>
+  <h4>
+    <a href="https://www.youtube.com/watch?v=gtFBin77DMM"  target="_blank">Watch Youtube video 2</a>
+  </h4>
+  <h4>
+    <a href="https://www.youtube.com/watch?v=A7_yYQmTBC0"  target="_blank">Watch Youtube video 3</a>
   </h4>
   <h4>
     <a href="#" title="Sorry, it's company secret"  target="_blank"><s>View code (company secret)</s></a>
@@ -54,19 +60,7 @@ Maybe you can mention me or this repo in the acknowledgements too
   <li><strong>Customer Support:</strong> Offers in-depth support through online help, live chat, telephone assistance, in-store visits, and at-home repair services.</li>
   <li><strong>Repair Services:</strong> Provides official repair solutions—via courier, in-store, or mobile technicians—as well as a self-repair program for DIY fixes using genuine parts.</li>
 </ul>
-<p>
-
-</p>
-
-<p><h4>What had to do?</h4>
-  <ul>
-    <li>create pixel-perfect layout for every devices, all screen sizes</li>
-    <li>mobile first, full responsive</li>
-    <li>all content comes from JSON file with asyncronous RestAPI call</li>
-    <li>images were stored on AWS and spread with CDN</li>
-    <li>build a business logic for the upgrade tool</li>
-  </ul>
-</p>
+<p></p>
 
 <p><h4>Features of this project</h4>
   <ul>
@@ -74,10 +68,11 @@ Maybe you can mention me or this repo in the acknowledgements too
     <li>each SKU had a list of eligible devices to trade in within the Samsung Upgrade program</li>
     <li>responsive image carousel</li>
     <li>stock information (comes from Samsung stock API)</li>
-    <li>upfront cost and monthly payment arecalculated by external financial service</li>
+    <li>upfront cost and monthly payment are calculated by external financial service</li>
     <li>tabbed content to show explanation of technical parameters of the phones / tablets</li>
     <li>product sensitive content to show after selection</li>
     <li>trade-in panel: users could use their old devices to reduce the price of their new device</li>
+    <li>Samsung Care+</li>
     <li>trade-in condition calculation, based on the given answers (Grade A, B, C)</li>
     <li>dynamic FAQ as accordion element</li>
     <li>specifications to compare</li>
@@ -103,9 +98,11 @@ Maybe you can mention me or this repo in the acknowledgements too
     <li>actual price and stock information was loaded by using Samsung API data source</li>
     <li>images were stored on AWS</li>
     <li>intelligent state management</li>
-    <li>prices and stick information was provided by the official Samsung sticking management system</li>
+    <li>prices and stock information was provided by the official Samsung stocking management system</li>
     <li>optimized page loading time, compressed images, compressed JS content into one file, browser cache to store what was loaded once, so the solution saved bandwith for the next page load</li>
     <li>had to load the content from an XML/JSON file than process it (JSON stringify) and create a representation of the data in the memory</li>
+    <li>images were stored on AWS and spread with CDN</li>
+    <li>build a business logic for the upgrade tool</li>
   </ul>
 </p>
 
