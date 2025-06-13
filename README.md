@@ -1,4 +1,21 @@
-<!-- Lead title and name -->
+<!-- Table of Contents -->
+
+# :notebook_with_decorative_cover: Table of Contents
+
+- [Introduction](#sunglasses-introduction)
+- [Summary](#loudspeaker-summary)
+- [Education and trainings](#mortar_board-education-and-trainings)
+- [Employment history](#moneybag-employment-history)
+- [Contact me](#mailbox-where-could-you-find-me)
+- [Skills](#wrench-languages-libraries--frameworks)
+- [Portfolio](#bulb-some-of-my-portfolio-items)
+  - [Corporate projects](#necktie-corporate-projects)
+  - [Private projects](#shirt-private-projects)
+  - [Solution of interview tasks](#skull-some-interview-tasks-done)
+- [Awards](#trophy-awards)
+- [References](#hearts-references)
+
+<!-- Introduction -->
 
 # :sunglasses: Introduction
 
@@ -17,22 +34,6 @@
 <!-- Photo of me -->
 
 <!-- ![Robert Koteles, Senior Frontend Developer](https://raw.githubusercontent.com/kotelesroberto/portfolio/master/assets/robertkoteles.jpg) -->
-
-<!-- Table of Contents -->
-
-# :notebook_with_decorative_cover: Table of Contents
-
-- [Summary](#loudspeaker-summary)
-- [Education and trainings](#mortar_board-education-and-trainings)
-- [Employment history](#moneybag-employment-history)
-- [Contact me](#mailbox-where-could-you-find-me)
-- [Skills](#wrench-languages-libraries--frameworks)
-- [Portfolio](#bulb-some-of-my-portfolio-items)
-  - [Corporate projects](#necktie-corporate-projects)
-  - [Private projects](#shirt-private-projects)
-  - [Solution of interview tasks](#skull-some-interview-tasks-done)
-- [Awards](#trophy-awards)
-- [References](#hearts-references)
 
 <!-- Summary -->
 
