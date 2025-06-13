@@ -11,14 +11,6 @@
 <div align="center">
   <h1>LinkedIn with React JS (Firebase + Styled Components + Redux) (private project)</h1>
 
-<p align="left">
-The idea was creating a standalone ReactJS application from scratch in my spare time. As I use the LinkedIn quite often it was evident that the LinkedIn will be something I wanna build by myself, with a lot of real, fully working functions.
-</p>
-
-<p align="left">
-    This is a private project, just for fun. Created this project for the reason of learning, training and self-entertainment. I have learned many tiny coding tricks during this coding task and also discovered new modules and services. Private projects are always good for refresh your developer knowledge and get the bigger picture about what's going on around the IT world.
-  </p>
-   
   <h4>
     <a href="https://rulex-f553b.web.app" target="_blank">View demo</a>
   </h4>
@@ -45,19 +37,13 @@ The idea was creating a standalone ReactJS application from scratch in my spare 
 
 ## :star2: About the project
 
-<p><h4>Features of this project</h4>
-  <ul>
-    <li>at the time of coding this solution the employee's data was managed in <a href="https://www.samsungknox.com/en/blog/optimizing-technology-to-improve-employee-productivity">Samsung KNOX</a></li>
-    <li>project managers needed a transparent, quick and effective automatic data migration tool into projectmanager.com system</li>
-    <li></li>
-  </ul>
+<p align="left">
+The idea was creating a standalone ReactJS application from scratch in my spare time. As I use the LinkedIn quite often it was evident that the LinkedIn will be something I wanna build by myself, with a lot of real, fully working functions.
 </p>
 
-<p><h4>Technical parameters of this project, developed by me:</h4>
-  <ul>
-    <li></li>
-  </ul>
-</p>
+<p align="left">
+    This is a private project, just for fun. Created this project for the reason of learning, training and self-entertainment. I have learned many tiny coding tricks during this coding task and also discovered new modules and services. Private projects are always good for refresh your developer knowledge and get the bigger picture about what's going on around the IT world.
+  </p>
 
 <p>
 The final webapp was easy-to-access, user-friendly and soooo cool! It was full responsive with mobile-first approach.
