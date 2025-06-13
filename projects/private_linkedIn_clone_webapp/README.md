@@ -89,6 +89,15 @@ The final webapp was easy-to-access, user-friendly and soooo cool! It was full r
 <div align="center"> 
   <img src="assets/linkedin-clone-11.jpg" alt="screenshot" />
 </div>
+<div align="center"> 
+  <img src="assets/linkedin-clone-12.jpg" alt="screenshot" />
+</div>
+<div align="center"> 
+  <img src="assets/linkedin-clone-13.jpg" alt="screenshot" />
+</div>
+<div align="center"> 
+  <img src="assets/linkedin-clone-14.jpg" alt="screenshot" />
+</div>
 
 <!-- TechStack -->
 
