@@ -17,13 +17,13 @@
   <h4>Video  (1st task)</h4>
 <!-- BEGIN YOUTUBE-CARDS -->
 
-[![jQuery zoom plugin](https://ytcards.demolab.com/?id=jyoAtl6x028&title=KPS+product+listing&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "KSP product listing")](https://www.youtube.com/watch?v=jyoAtl6x028)
+[![KPS Product list](https://ytcards.demolab.com/?id=jyoAtl6x028&title=KPS+product+listing&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "KSP product listing")](https://www.youtube.com/watch?v=jyoAtl6x028)
 
   <!-- END YOUTUBE-CARDS -->
   <h4>Video  (2nd task)</h4>
 <!-- BEGIN YOUTUBE-CARDS -->
 
-[![jQuery zoom plugin](https://ytcards.demolab.com/?id=iptMmZDrOVw&title=KPS+form+validator&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "KPS form validator")](https://www.youtube.com/watch?v=iptMmZDrOVw)
+[![KPS form validator](https://ytcards.demolab.com/?id=iptMmZDrOVw&title=KPS+form+validator&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "KPS form validator")](https://www.youtube.com/watch?v=iptMmZDrOVw)
 
   <!-- END YOUTUBE-CARDS -->
 
@@ -83,13 +83,16 @@ The final webapp was easy-to-access, user-friendly and soooo cool! It was full r
 
 ### :camera: Screenshots
 
-<div align="center"> 
+<div align="center">
+  <h4>Desktop</h4>
   <img src="assets/kps_solution1_desktop.jpg" alt="screenshot" />
 </div>
 <div align="center"> 
+  <h4>Mobile</h4>
   <img src="assets/kps_solution1_mobile.jpg" alt="screenshot" width="300" />
 </div>
 <div align="center"> 
+  <h4>Mobile</h4>
   <img src="assets/kps_solution2.jpg" alt="screenshot" />
 </div>
 
@@ -130,10 +133,8 @@ The final webapp was easy-to-access, user-friendly and soooo cool! It was full r
 
 - Accessibility level: AA
 - Mobile first, full responsive solution
-- It follows the BG (Brand Guideline)
 - Fast loading time
 - Cached content and images
-- Fully optimized loading event and running time with Adobe A/B test code injection into the header
 
 <!-- License -->
 
