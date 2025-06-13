@@ -6,6 +6,14 @@
 
 <i>Senior Frontend Developer, Tech Leader, Freelancer</i>
 
+![Robert Koteles, Senior Frontend Developer](assets/animated_text.svg)
+
+### 📫 Like to meet me?
+
+<p>Pick a slot if you'd like to meet me and chat about a new role you want to hire me - but make sure to describe the agenda
+</p>
+<a href="https://calendly.com/koteles-roberto2/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+
 <!-- Photo of me -->
 
 <!-- ![Robert Koteles, Senior Frontend Developer](https://raw.githubusercontent.com/kotelesroberto/portfolio/master/assets/robertkoteles.jpg) -->
@@ -15,11 +23,13 @@
 # :notebook_with_decorative_cover: Table of Contents
 
 - [Summary](#loudspeaker-summary)
+- [Education and trainings](#mortar_board-education-and-trainings)
 - [Contact me](#mailbox-where-could-you-find-me)
 - [Skills](#wrench-languages-libraries--frameworks)
 - [Portfolio](#bulb-some-of-my-portfolio-items)
   - [Corporate projects](#necktie-corporate-projects)
   - [Private projects](#shirt-private-projects)
+  - [Solution of interview tasks](#skull-some-interview-tasks-done)
 - [Awards](#trophy-awards)
 - [References](#hearts-references)
 
@@ -33,7 +43,7 @@
 
 <img align="right" alt="Robert Koteles, Senior Frontend Developer" width="200px" src="https://raw.githubusercontent.com/kotelesroberto/portfolio/master/assets/robertkoteles.jpg"/>
 
-- 👂 My name is Robert Koteles
+- 👂 My name is <strong>Robert Koteles</strong>
 - 🧔‍♂️ Pronouns: Him/His
 - 🧑🏽‍🦽‍➡️ No disabilities
 - 🔭 I’m currently working on my own private projects just for fun
@@ -44,6 +54,20 @@
 - ❤️ I love learning new coding techniques, educate myself, learn new languages, reading books, playing music, socialising
 - ⚡ Fun facts: 🏆 I hold a Guiness World Record | 🚴🏿‍♂️ I visited all European countries on my bicycle | 🎼 Been a recording artist as musician
 
+<!-- Education and trainings -->
+
+## :mortar_board: Education and trainings
+
+<ul>
+  <li>Professional Scrum Developer at Scrum.org (2023)</li>
+  <li>Self education in subject of programming (continous)</li>
+  <li>Science of Math, Master degree, University of Debrecen, Hungary (2006)</li>
+  <li>Science of Information Technology, Master degree, University of Debrecen, Hungary (2006)</li>
+  <li>Descriptive geometry, left on the last year, University of Debrecen, Hungary (2006)</li>
+  <li>Psychology and pedagogie, University of Debrecen, Hungary (2006)</li>
+</ul>
+<strong></strong>
+
 <!-- Contact me -->
 
 ## :mailbox: Where could you find me?
@@ -51,6 +75,7 @@
 [![My LinkedIn | robertkoteles][badge-linkedin]][link-linkedin]
 [![My GitHub | kotelesroberto][badge-github]][link-github]
 [![My Youtube | robertkotelesfrontendwebde6833][badge-youtube]][link-youtube]
+[![My Youtube | RobertKotelesFrontendWebDev][badge-youtube]][link-youtube2]
 
 <!--
   List for tech table references
@@ -107,29 +132,45 @@
   <li><a href="projects/wlt_walls_ice_cream" target="_self">Walls Ice Creams</a></li>
   <li><a href="projects/kps_office" target="_self">Office shoes</a></li>
   <li><a href="projects/infomentum_bae_systems" target="_self">BAE Systems</a></li>
+  <li><a href="projects/black_sun" target="_self">Black Sun Plc.</a></li>
   <li><a href="projects/black_sun_compass_group" target="_self">Compass Goup</a></li>
   <li><a href="projects/black_sun_debeers_group" target="_self">DeBeers Group</a></li>
   <li><a href="projects/black_sun_ei_group" target="_self">EI Group</a></li>
   <li><a href="projects/black_sun_g4s_annual_report" target="_self">G4S Annual Report</a></li>
   <li><a href="projects/black_sun_go_ahead" target="_self">Go Ahead</a></li>
   <li><a href="projects/black_sun_hikma" target="_self">HIKMA</a></li>
+  <li><a href="projects/black_sun_subsea7" target="_self">Subsea 7</a></li>
   <li><a href="projects/black_sun_imperial_brands" target="_self">Imperial Brands</a></li>
+  <li><a href="projects/black_sun_suek" target="_self">SUEK</a></li>
   <li><a href="projects/black_sun_inchcape" target="_self">Inchcape</a></li>
   <li><a href="projects/black_sun_ipf" target="_self">IPF (Internatioal Personal Finance)</a></li>
   <li><a href="projects/black_sun_ms_amlin" target="_self">MS Amlin</a></li>
   <li><a href="projects/black_sun_rank_group" target="_self">Rank Group</a></li>
   <li><a href="projects/black_sun_shaftesbury" target="_self">Shaftesbury</a></li>
+  <li><a href="projects/black_sun_burberry_plc" target="_self">Burberry</a></li>
   <li><a href="projects/black_sun_vesuvius_plc" target="_self">Vesuvius Plc</a></li>
+  <li><a href="projects/black_sun_kaz_mineral" target="_self">KAZ Mineral</a></li>
 </ul>
 
 #### :shirt: Private projects
 
 <ul>
-  <li><a href="projects/linkedIn_clone_webapp" target="_self">LinkedIn clone webapp (React)</a></li>
-  <li><a href="projects/tinder_clone_webapp" target="_self">Tinder clone webapp (React)</a></li>
-  <li><a href="projects/twitter_clone_webapp" target="_self">Twitter clone webapp (React)</a></li>
-  <li><a href="projects/amazon_clone_webapp" target="_self">Amazon clone webapp (React)</a></li>
-  <li><a href="projects/fixlife_pension" target="_self">Pension and Life Insurance Calculator</a></li>
+  <li><a href="projects/private_linkedIn_clone_webapp" target="_self">LinkedIn clone webapp (React)</a></li>
+  <li><a href="projects/private_tinder_clone_webapp" target="_self">Tinder clone webapp (React)</a></li>
+  <li><a href="projects/private_twitter_clone_webapp" target="_self">Twitter clone webapp (React)</a></li>
+  <li><a href="projects/private_amazon_clone_webapp" target="_self">Amazon clone webapp (React)</a></li>
+  <li><a href="projects/private_fixlife_pension" target="_self">Pension and Life Insurance Calculator</a></li>
+  <li><a href="projects/private_jquery_zoom" target="_self">jQuery zoom plugin</a></li>
+  <li><a href="projects/private_christmas_game" target="_self">Christmas game as Facebook app</a></li>
+</ul>
+
+#### :skull: Some interview tasks done
+
+<ul>
+  <li><a href="projects/interview_dailytelegraph" target="_self">TV program feed gadget (Daily Telegraph)</a></li>
+  <li><a href="projects/interview_bbc" target="_self">Weather widget (BBC)</a></li>
+  <li><a href="projects/interview_infomentum" target="_self">Mental awareness widget (Infomentum)</a></li>
+  
 </ul>
 
 <!-- Awards -->
@@ -184,5 +225,6 @@
 [link-linkedin]: https://www.linkedin.com/in/robertkoteles/
 [badge-github]: https://img.shields.io/static/v1?label=%20&message=github&labelColor=0077B5&color=0077B5&style=flat-square&logo=github
 [link-github]: https://github.com/kotelesroberto
-[badge-youtube]: https://img.shields.io/static/v1?label=%20&message=youtube&labelColor=CD201F&color=CD201F&style=flat-square&logo=youtube
+[badge-youtube]: https://img.shields.io/static/v1?label=%20&message=youtube2&labelColor=CD201F&color=CD201F&style=flat-square&logo=youtube
 [link-youtube]: https://www.youtube.com/@robertkotelesfrontendwebde6833
+[link-youtube2]: https://www.youtube.com/@RobertKotelesFrontendWebDev
