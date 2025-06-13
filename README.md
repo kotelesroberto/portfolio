@@ -170,6 +170,7 @@
   <li><a href="projects/black_sun_burberry_plc" target="_self">Burberry</a></li>
   <li><a href="projects/black_sun_vesuvius_plc" target="_self">Vesuvius Plc</a></li>
   <li><a href="projects/black_sun_kaz_mineral" target="_self">KAZ Mineral</a></li>
+  <li><a href="projects/black_sun_jquery_zoom" target="_self">jQuery zoom plugin</a></li>
 </ul>
 
 #### :shirt: Private projects
@@ -187,6 +188,7 @@
 #### :skull: Some interview tasks done
 
 <ul>
+  <li><a href="projects/interview_kps" target="_self">TV program feed gadget (KPS)</a></li>
   <li><a href="projects/interview_dailytelegraph" target="_self">TV program feed gadget (Daily Telegraph)</a></li>
   <li><a href="projects/interview_bbc" target="_self">Weather widget (BBC)</a></li>
   <li><a href="projects/interview_infomentum" target="_self">Mental awareness widget (Infomentum)</a></li>
