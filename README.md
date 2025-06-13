@@ -24,6 +24,7 @@
 
 - [Summary](#loudspeaker-summary)
 - [Education and trainings](#mortar_board-education-and-trainings)
+- [Employment history](#moneybag-employment-history)
 - [Contact me](#mailbox-where-could-you-find-me)
 - [Skills](#wrench-languages-libraries--frameworks)
 - [Portfolio](#bulb-some-of-my-portfolio-items)
@@ -67,6 +68,24 @@
   <li>Psychology and pedagogie, University of Debrecen, Hungary (2006)</li>
 </ul>
 <strong></strong>
+
+<!-- Employment history -->
+
+## :moneybag: Employment history
+
+<ul>
+  <li>Software engineer, Domestic & General, London, Remote</li>
+  <li>Senior frontend developer, web leader, Williams Lea, London, Home Office</li>
+  <li>Senior consultant, Infomentum, London, Home Office</li>
+  <li>Tech Leader, Cheil UK, London</li>
+  <li>Full stack Web Developer, Elixirr, London</li>
+  <li>Lead AEM Web Developer (Freelancer), Williams Lea Tag, London</li>
+  <li>Web Manager, Senior Web Developer, Black Sun Plc., London</li>
+  <li>Web specialist, Ericcson, Budapest, Hungary</li>
+  <li>Web developer, Gestalt Team Kft., Budapest, Hungary</li>
+  <li>Teaching professional in a high school, Debrecen, Hungary</li>
+  <li>Costumer service operator, T-Systems, Debrecen, Hungary</li>
+</ul>
 
 <!-- Contact me -->
 
