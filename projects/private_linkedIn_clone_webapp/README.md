@@ -1,5 +1,14 @@
 <div align="center">
 
+  <img src="assets/linkedin-logo.svg" alt="logo" width="200" height="auto" />
+</div>
+<br />
+<div align="center">
+  <img src="assets/rulex-logo.svg" alt="logo" width="200" height="auto" />
+</div>
+<br />
+
+<div align="center">
   <h1>LinkedIn with React JS (Firebase + Styled Components + Redux) (private project)</h1>
 
 <p align="left">
@@ -11,11 +20,11 @@ The idea was creating a standalone ReactJS application from scratch in my spare 
   </p>
    
   <h4>
-    <a href="https://rulex-f553b.web.app" target="_blank"><s>View demo</s></a>
+    <a href="https://rulex-f553b.web.app" target="_blank">View demo</a>
   </h4>
   
   <h4>
-    <a href="https://github.com/kotelesroberto/linkedin-clone" title="Code"  target="_blank"><s>View code</s></a>
+    <a href="https://github.com/kotelesroberto/linkedin-clone" title="Code"  target="_blank">View code</a>
   </h4>
 
 </div>
