@@ -182,6 +182,7 @@
   <li><a href="projects/private_amazon_clone_webapp" target="_self">Amazon clone webapp (React)</a></li>
   <li><a href="projects/private_fixlife_pension" target="_self">Pension and Life Insurance Calculator</a></li>
   <li><a href="projects/private_christmas_game" target="_self">Christmas game as Facebook app</a></li>
+  <li><a href="projects/private_csontos_apartman" target="_self">Apartment booking system</a></li>
 </ul>
 
 #### :skull: Some interview tasks done
@@ -191,6 +192,8 @@
   <li><a href="projects/interview_dailytelegraph" target="_self">TV program feed gadget (Daily Telegraph)</a></li>
   <li><a href="projects/interview_bbc" target="_self">Weather widget (BBC)</a></li>
   <li><a href="projects/interview_infomentum" target="_self">Mental awareness widget (Infomentum)</a></li>
+
+  <li></li>
   
 </ul>
 
