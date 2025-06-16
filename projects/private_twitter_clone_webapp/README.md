@@ -21,6 +21,11 @@
     <a href="https://github.com/kotelesroberto/twitter-clone" title="Code"  target="_blank">View code</a>
   </h4>
 
+<!-- BEGIN YOUTUBE-CARDS -->
+
+[![Twitter clone React app](https://ytcards.demolab.com/?id=d6Y8OZmi3IQ&title=Twitter+clone+React+app&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Twitter clone React app")](https://www.youtube.com/watch?v=d6Y8OZmi3IQ)
+
+  <!-- END YOUTUBE-CARDS -->
 </div>
 
 <br />
