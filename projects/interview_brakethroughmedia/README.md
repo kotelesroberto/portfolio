@@ -12,7 +12,7 @@ numerous ways to complete the tasks involved in this test and there are no right
     <a href="#" target="_blank">View the solution</a>
   </h4>
   <h4>
-    <a href="https://github.com/kotelesroberto/breathe-test" title="Code"  target="_blank">View code</a>
+    <a href="https://github.com/kotelesroberto/breaktroughmedia" title="Code"  target="_blank">View code</a>
   </h4>
 
 </div>
