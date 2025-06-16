@@ -66,4 +66,4 @@ console.log(formattedPrice);
 
 ## :warning: License
 
-Distributed under the Private Copyright. Any distribution or copy the code or rany part of the webpage without our consent is strictly illegal.
+Distributed under the MTI copyright. I don't mind if you use this code for educational purposes. Cheers!
