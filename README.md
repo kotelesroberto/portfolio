@@ -180,7 +180,7 @@
   <li><a href="projects/private_tinder_clone_webapp" target="_self">Tinder clone webapp (React)</a></li>
   <li><a href="projects/private_twitter_clone_webapp" target="_self">Twitter clone webapp (React)</a></li>
   <li><a href="projects/private_amazon_clone_webapp" target="_self">Amazon clone webapp (React)</a></li>
-  <li><a href="projects/private_fixlife_pension" target="_self">Pension and Life Insurance Calculator</a></li>
+  <li><a href="projects/private_fixlife_pension" target="_self">Pension and Life Insurance Calculator (2012)</a></li>
   <li><a href="projects/private_christmas_game" target="_self">Christmas game as Facebook app</a></li>
   <li><a href="projects/private_csontos_apartman" target="_self">Apartment booking system</a></li>
   <li><a href="projects/private_belmondo" target="_self">Belmondo - music band's official page</a></li>
