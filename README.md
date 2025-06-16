@@ -190,6 +190,7 @@
 
 <ul>
   <li><a href="projects/interview_kps" target="_self">Product listing and form validation (KPS)</a></li>
+  <li><a href="projects/interview_brakethroughmedia" target="_self">Simple JavaScript test (Brakethrough Media)</a></li>
   <li><a href="projects/interview_dailytelegraph" target="_self">TV program feed gadget (Daily Telegraph)</a></li>
   <li><a href="projects/interview_bbc" target="_self">Weather widget (BBC)</a></li>
   <li><a href="projects/interview_breathe" target="_self">Some React widgets (Breathe)</a></li>
