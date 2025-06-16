@@ -78,6 +78,9 @@ The project was creating a PHP-based website for the apartment with interactive 
 <div align="center"> 
   <img src="assets/csontos-4.jpg" alt="screenshot" />
 </div>
+<div align="center"> 
+  <img src="assets/how_to.gif" alt="screenshot" width="279" />
+</div>
 
 <!-- TechStack -->
 
