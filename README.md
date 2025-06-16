@@ -184,6 +184,7 @@
   <li><a href="projects/private_christmas_game" target="_self">Christmas game as Facebook app</a></li>
   <li><a href="projects/private_csontos_apartman" target="_self">Apartment booking system</a></li>
   <li><a href="projects/private_belmondo" target="_self">Belmondo - music band's official page</a></li>
+  <li><a href="projects/private_formatcurrency" target="_self">NPM package: currency formatter</a></li>
 </ul>
 
 #### :skull: Some interview tasks done
