@@ -16,7 +16,7 @@ Maybe you can mention me or this repo in the acknowledgements too
   </p>
    
   <h4>
-    <a href="https://www.thegazette.co.uk/" target="_blank">View Demo</a>
+    <a href="https://www.thegazette.co.uk/" target="_blank">View demo</a>
   </h4>
   <h4>
     <a href="#" title="Sorry, it's a company secret"  target="_blank"><s>View code (company secret)</s></a>
@@ -31,7 +31,7 @@ Maybe you can mention me or this repo in the acknowledgements too
 # :notebook_with_decorative_cover: ToC
 
 - [About the Service](#paperclip-about-the-service)
-- [About the Project](#star2-about-the-project)
+- [About the project](#star2-about-the-project)
   - [Screenshots](#camera-screenshots)
   - [Tech Stack](#space_invader-tech-stack)
   - [Features](#dart-features)
@@ -81,9 +81,9 @@ Provides a Data Service geared towards KYC, AML, credit management, lead generat
 
 </ol>
 
-<!-- About the Project -->
+<!-- About the project -->
 
-## :star2: About the Project
+## :star2: About the project
 
 <p>The project itself was about building a professional website where the users can get legal documentations, declarations and announcements from the official source.</p>
 <p>The content of the site was fully created by bespoken system.</p>

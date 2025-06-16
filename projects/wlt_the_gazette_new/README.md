@@ -16,7 +16,7 @@ Maybe you can mention me or this repo in the acknowledgements too
   </p>
    
   <h4>
-    <a href="https://www.thegazette.co.uk/" target="_blank">View Demo</a>
+    <a href="https://www.thegazette.co.uk/" target="_blank">View demo</a>
   </h4>
   <h4>
     <a href="#" title="Sorry, it's a company secret"  target="_blank"><s>View code (company secret)</s></a>
@@ -31,7 +31,7 @@ Maybe you can mention me or this repo in the acknowledgements too
 # :notebook_with_decorative_cover: ToC
 
 - [About the Service](#paperclip-about-the-service)
-- [About the Project](#star2-about-the-project)
+- [About the project](#star2-about-the-project)
   - [Screenshots](#camera-screenshots)
   - [Tech Stack](#space_invader-tech-stack)
   - [Features](#dart-features)
@@ -81,9 +81,9 @@ Provides a Data Service geared towards KYC, AML, credit management, lead generat
 
 </ol>
 
-<!-- About the Project -->
+<!-- About the project -->
 
-## :star2: About the Project
+## :star2: About the project
 
 <p>The idea was replacing the already existing The Gazette website by a modern, Drupal based framework. We worked hard to mave every page into the new system, devleoped many bespoken Drupal plugins and layouts, also had a brand new style brand guideline to follow.</p>
 <p>The new solutions has a new, modern layout and many pretty useful functions.</p>

@@ -16,7 +16,7 @@ Maybe you can mention me or this repo in the acknowledgements too
   </p>
    
   <h4>
-    <a href="#" target="_blank"><s>View Demo (it was available for a presentation on a QA server)</s></a>
+    <a href="#" target="_blank"><s>View demo (it was available for a presentation on a QA server)</s></a>
   </h4>
   <h4>
     <a href="#" title="Sorry, it's company secret"  target="_blank"><s>View code (company secret)</s></a>
@@ -30,7 +30,7 @@ Maybe you can mention me or this repo in the acknowledgements too
 
 # :notebook_with_decorative_cover: ToC
 
-- [About the Project](#star2-about-the-project)
+- [About the project](#star2-about-the-project)
   - [Screenshots](#camera-screenshots)
   - [Tech Stack](#space_invader-tech-stack)
   - [Features](#dart-features)
@@ -38,9 +38,9 @@ Maybe you can mention me or this repo in the acknowledgements too
 - [License](#warning-license)
 - [Contact](#handshake-contact)
 
-<!-- About the Project -->
+<!-- About the project -->
 
-## :star2: About the Project
+## :star2: About the project
 
 <p>Our team wanted to win this project and build a brand new website for FCA. However our in-house design team created a fancy, modern design and I had to create a DEMO that was introduced for the leadership of FCA.</p>
 <p>The DEMO had fully functional parts, such as login area, search feature, etc.</p>

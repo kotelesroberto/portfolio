@@ -16,10 +16,10 @@ Maybe you can mention me or this repo in the acknowledgements too
   </p>
    
   <h4>
-    <a href="https://www.thetakeoverpanel.org.uk/" target="_blank">View Demo (old site)</a>
+    <a href="https://www.thetakeoverpanel.org.uk/" target="_blank">View demo (old site)</a>
   </h4>
   <h4>
-    <a href="https://www.qa.code.takeoverpanel.tso.co.uk/tp" target="_blank">View Demo (new site, password protected)</a>
+    <a href="https://www.qa.code.takeoverpanel.tso.co.uk/tp" target="_blank">View demo (new site, password protected)</a>
   </h4>
   <h4>
     <a href="https://youtu.be/I6-fDVan8mc"  target="_blank">Watch Youtube video</a>
@@ -36,7 +36,7 @@ Maybe you can mention me or this repo in the acknowledgements too
 
 # :notebook_with_decorative_cover: ToC
 
-- [About the Project](#star2-about-the-project)
+- [About the project](#star2-about-the-project)
   - [Screenshots](#camera-screenshots)
   - [Tech Stack](#space_invader-tech-stack)
   - [Features](#dart-features)
@@ -44,9 +44,9 @@ Maybe you can mention me or this repo in the acknowledgements too
 - [License](#warning-license)
 - [Contact](#handshake-contact)
 
-<!-- About the Project -->
+<!-- About the project -->
 
-## :star2: About the Project
+## :star2: About the project
 
 <p>The Takeover Panel is an independent body whose main functions are to issue and administer the Takeover Code and to supervise and regulate takeovers and other matters to which the Code applies. Its principal purposes are to ensure fair treatment for all shareholders and an orderly framework for takeover bids. The Takeover Code comprises six General Principles, 38 Rules and nine Appendices. It is designed to ensure fair treatment for shareholders and an orderly framework for takeovers.</p>
 <p>The project itself was about building a professional website to help companies and their shareholders.</p>

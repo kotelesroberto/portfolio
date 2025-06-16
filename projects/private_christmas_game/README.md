@@ -83,6 +83,7 @@ This game was developed as a Facebook application. Users could decorate a christ
   <summary>Backend</summary>
   <ul>
     <li><a href="https://www.php.net/"  target="_blank">PHP</a></li>
+    <li><a href="https://www.php.net/manual/en/book.image.php"  target="_blank">GD2 image library</a></li>
     <li><a href="https://developer.mozilla.org/en-US/docs/Web/XML/Guides/XML_introduction"  target="_blank">XML</a></li>
     <li><a href="https://developers.facebook.com/"  target="_blank">Facebook Developer APIs</a></li>
 

@@ -9,21 +9,29 @@ Maybe you can mention me or this repo in the acknowledgements too
 <div align="center">
   <img src="assets/britishpharmacopeia.png" alt="logo" width="200" height="auto" />
 
-  <h1>British Pharmacopoeia (Williams Lea Tag)</h1>
+  <h1>British Pharmacopoeia - administration (Williams Lea Tag)</h1>
   
   <p>
     I worked on this project whilst worked for Williams Lea Tag, London. Way of working at this company was <strong>remote</strong>.
   </p>
    
   <h4>
-    <a href="#" target="_blank"><s>View Demo (company secret)</s></a>
+    <a href="#" target="_blank"><s>View demo (company secret)</s></a>
   </h4>
-  <h4>
-    <a href="https://youtu.be/Qv2ppnCHLsg"  target="_blank">Watch Youtube video</a>
-  </h4>
+
   <h4>
     <a href="#" title="Sorry, it's company secret"  target="_blank"><s>View code (company secret)</s></a>
   </h4>
+
+  <h4>
+    <a href="https://youtu.be/Qv2ppnCHLsg"  target="_blank">Watch Youtube video</a>
+  </h4>
+
+<!-- BEGIN YOUTUBE-CARDS -->
+
+[![British Pharmacopoeia](https://ytcards.demolab.com/?id=Qv2ppnCHLsg&title=British+Pharmacopoeia&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "British Pharmacopoeia")](https://www.youtube.com/watch?v=Qv2ppnCHLsg)
+
+<!-- END YOUTUBE-CARDS -->
 
 </div>
 
@@ -33,7 +41,7 @@ Maybe you can mention me or this repo in the acknowledgements too
 
 # :notebook_with_decorative_cover: ToC
 
-- [About the Project](#star2-about-the-project)
+- [About the project](#star2-about-the-project)
   - [Screenshots](#camera-screenshots)
   - [Tech Stack](#space_invader-tech-stack)
   - [Features](#dart-features)
@@ -41,9 +49,9 @@ Maybe you can mention me or this repo in the acknowledgements too
 - [License](#warning-license)
 - [Contact](#handshake-contact)
 
-<!-- About the Project -->
+<!-- About the project -->
 
-## :star2: About the Project
+## :star2: About the project
 
 <p>The project itself was about building a professional webapp for pharmacy-related user-queries. Using the proper chemical formulas was the key of our work. No room of mistakes! We used an in-house headless CMS, that was created for this project only. Everything was written by us, so the CMS was not a commercial one.
 </p>

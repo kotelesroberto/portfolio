@@ -98,7 +98,7 @@ The project was creating a PHP-based website for the band with interactive gig i
 <details>
 <summary>Database and store</summary>
   <ul>
-    <li><a href="">MySQL</a></li>
+    <li><a href="https://www.mysql.com/">MySQL</a></li>
   </ul>
 </details>
 

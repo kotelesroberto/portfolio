@@ -16,14 +16,20 @@ Maybe you can mention me or this repo in the acknowledgements too
   </p>
    
   <h4>
-    <a href="https://beta.pharmacopoeia.com/" target="_blank">View Demo</a>
-  </h4>
-  <h4>
-    <a href="https://youtu.be/j-xa58239R8"  target="_blank">Watch Youtube video</a>
+    <a href="https://beta.pharmacopoeia.com/" target="_blank">View demo</a>
   </h4>
   <h4>
     <a href="#" title="Sorry, it's company secret"  target="_blank"><s>View code (company secret)</s></a>
   </h4>
+  <h4>
+    <a href="https://youtu.be/j-xa58239R8"  target="_blank">Watch Youtube video</a>
+  </h4>
+
+  <!-- BEGIN YOUTUBE-CARDS -->
+
+[![British Pharmacopoeia](https://ytcards.demolab.com/?id=j-xa58239R8&title=British+Pharmacopoeia&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "British Pharmacopoeia")](https://www.youtube.com/watch?v=j-xa58239R8)
+
+  <!-- END YOUTUBE-CARDS -->
 
 </div>
 
@@ -33,7 +39,7 @@ Maybe you can mention me or this repo in the acknowledgements too
 
 # :notebook_with_decorative_cover: ToC
 
-- [About the Project](#star2-about-the-project)
+- [About the project](#star2-about-the-project)
   - [Screenshots](#camera-screenshots)
   - [Tech Stack](#space_invader-tech-stack)
   - [Features](#dart-features)
@@ -41,9 +47,9 @@ Maybe you can mention me or this repo in the acknowledgements too
 - [License](#warning-license)
 - [Contact](#handshake-contact)
 
-<!-- About the Project -->
+<!-- About the project -->
 
-## :star2: About the Project
+## :star2: About the project
 
 <p>The project itself was about building a professional website for users with subscription. Based on their plan the users access to different level of contents and documents.
 </p>

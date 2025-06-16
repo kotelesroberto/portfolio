@@ -23,7 +23,7 @@
 # :notebook_with_decorative_cover: ToC
 
 - [About the company](#family-about-the-company)
-- [About the Project](#star2-about-the-project)
+- [About the project](#star2-about-the-project)
   - [Screenshots](#camera-screenshots)
   - [Tech Stack](#space_invader-tech-stack)
   - [Features](#dart-features)
@@ -31,9 +31,9 @@
 - [License](#warning-license)
 - [Contact](#handshake-contact)
 
-<!-- About the Company -->
+<!-- About the company -->
 
-## :family: About the Company
+## :family: About the company
 
 <p>Samsung UK is the British division of Samsung Electronics, a global technology leader based in South Korea. It operates through its official website <a href="https://www.samsung.com/uk">samsung.com/uk</a>, physical retail stores, and business partnerships to serve both consumers and enterprises across the United Kingdom.</p>
 <p>The brand of Samsung is known by almost everyone. Their webpage offering the full range of Samsung hardware: smartphones, tablets, TVs, wearables, home appliances, computers, accessories, smart displays, and mores.</p>
@@ -45,9 +45,9 @@
   <li><strong>Repair Services:</strong> Provides official repair solutions—via courier, in-store, or mobile technicians—as well as a self-repair program for DIY fixes using genuine parts.</li>
 </ul>
 
-<!-- About the Project -->
+<!-- About the project -->
 
-## :star2: About the Project
+## :star2: About the project
 
 <p><h4>Features of this project</h4>
   <ul>
@@ -135,7 +135,7 @@ The final webapp was easy-to-access, user-friendly and soooo cool! It was full r
 
 ## :white_check_mark: My contribution to the project
 
-<p>This entire project belonged to me, from the beginning until the end of it. I had to manage thedesign team and had my hands on the design processes. After having the design FIGMA pages I created teh webapp from scratch and used Adobe A/B test to inject the solution into the AEM pages. Had to create an injection ruke as the solution (and its content) was developed for specific pages (for instance: comparison of mobile phones was only visible on smartphone pages). For testing during the develpoment phase I used BroswerStack and multiple real devices, also the in-built Chrome DevTools.</p>
+<p>This entire project belonged to me, from the beginning until the end of it. I had to manage the design team and had my hands on the design processes. After having the design FIGMA pages I created teh webapp from scratch and used Adobe A/B test to inject the solution into the AEM pages. Had to create an injection ruke as the solution (and its content) was developed for specific pages (for instance: comparison of mobile phones was only visible on smartphone pages). For testing during the develpoment phase I used BroswerStack and multiple real devices, also the in-built Chrome DevTools.</p>
 <p>Based on the insights this comparison tool created a significant rise in sales that ended up in a visible extra profit for Samsung UK.</p>
 
 <!-- License -->

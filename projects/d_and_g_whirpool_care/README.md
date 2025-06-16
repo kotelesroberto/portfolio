@@ -8,7 +8,7 @@
   </p>
    
   <h4>
-    <a href="https://www.domesticandgeneral.com/repair-care/brands/whirlpool"  target="_blank">View Demo</a>
+    <a href="https://www.domesticandgeneral.com/repair-care/brands/whirlpool"  target="_blank">View demo</a>
   </h4>
   <h4>
     <a href="#" title="Sorry, it's company secret"  target="_blank"><s>View code (company secret)</s></a>
@@ -21,17 +21,16 @@
 
 # :notebook_with_decorative_cover: ToC
 
-- [About the Project](#star2-about-the-project)
+- [About the project](#star2-about-the-project)
   - [Screenshots](#camera-screenshots)
   - [Tech Stack](#space_invader-tech-stack)
   - [Features](#dart-features)
-  - [Environment Variables](#key-environment-variables)
 - [License](#warning-license)
 - [Contact](#handshake-contact)
 
-<!-- About the Project -->
+<!-- About the project -->
 
-## :star2: About the Project
+## :star2: About the project
 
 The project itself was about creating and managing the codebase of a user-focused, secure and easy-to-use solution where visitors easily could get a quote on their appliances instantly and also manage their already owned plans.
 

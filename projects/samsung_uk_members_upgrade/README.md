@@ -10,18 +10,15 @@
   <h4>
     <a href="https://www.samsung.com/uk/" target="_blank"><s>View site</s></a>
   </h4>
-  <h4>
-    <a href="https://www.youtube.com/watch?v=k_pkEI67mPo"  target="_blank">Watch Youtube video</a>
-  </h4>
-  <h4>
-    <a href="https://www.youtube.com/watch?v=gtFBin77DMM"  target="_blank">Watch Youtube video 2</a>
-  </h4>
-  <h4>
-    <a href="https://www.youtube.com/watch?v=A7_yYQmTBC0"  target="_blank">Watch Youtube video 3</a>
-  </h4>
-  <h4>
-    <a href="#" title="Sorry, it's company secret"  target="_blank"><s>View code (company secret)</s></a>
-  </h4>
+
+<h4>Videos</h4>
+<!-- BEGIN YOUTUBE-CARDS -->
+
+[![Samsung UK - Upgrade Lounge](https://ytcards.demolab.com/?id=k_pkEI67mPo&title=Samsung+UK+Upgrade+Lounge&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Samsung UK - Upgrade Lounge")](https://www.youtube.com/watch?v=k_pkEI67mPo)
+[![Samsung UK - Upgrade Lounge](https://ytcards.demolab.com/?id=gtFBin77DMM&title=Samsung+UK+Upgrade+Lounge&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Samsung UK - Upgrade Lounge")](https://www.youtube.com/watch?v=gtFBin77DMM)
+[![Samsung UK - Upgrade Lounge](https://ytcards.demolab.com/?id=A7_yYQmTBC0&title=Samsung+UK+Upgrade+Lounge&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Samsung UK - Upgrade Lounge")](https://www.youtube.com/watch?v=A7_yYQmTBC0)
+
+  <!-- END YOUTUBE-CARDS -->
 
 </div>
 
@@ -31,7 +28,7 @@
 
 # :notebook_with_decorative_cover: ToC
 
-- [About the Project](#star2-about-the-project)
+- [About the project](#star2-about-the-project)
   - [Screenshots](#camera-screenshots)
   - [Tech Stack](#space_invader-tech-stack)
   - [Features](#dart-features)
@@ -39,9 +36,9 @@
 - [License](#warning-license)
 - [Contact](#handshake-contact)
 
-<!-- About the Project -->
+<!-- About the project -->
 
-## :star2: About the Project
+## :star2: About the project
 
 <p>Samsung UK is the British division of Samsung Electronics, a global technology leader based in South Korea. It operates through its official website <a href="https://www.samsung.com/uk">samsung.com/uk</a>, physical retail stores, and business partnerships to serve both consumers and enterprises across the United Kingdom.</p>
 <p>The brand of Samsung is known by almost everyone. Their webpage offering the full range of Samsung hardware: smartphones, tablets, TVs, wearables, home appliances, computers, accessories, smart displays, and mores.</p>
@@ -166,7 +163,7 @@ The final webapp was easy-to-access, user-friendly and soooo cool! It was full r
 
 ## :white_check_mark: My contribution to the project
 
-<p>This entire project belonged to me, from the beginning until the end of it. I had to manage thedesign team and had my hands on the design processes. After having the design FIGMA pages I created teh webapp from scratch and used Adobe A/B test to inject the solution into the AEM pages. Had to create an injection ruke as the solution (and its content) was developed for specific pages (for instance: comparison of mobile phones was only visible on smartphone pages). For testing during the develpoment phase I used BroswerStack and multiple real devices, also the in-built Chrome DevTools.</p>
+<p>This entire project belonged to me, from the beginning until the end of it. I had to manage the design team and had my hands on the design processes. After having the design FIGMA pages I created teh webapp from scratch and used Adobe A/B test to inject the solution into the AEM pages. Had to create an injection ruke as the solution (and its content) was developed for specific pages (for instance: comparison of mobile phones was only visible on smartphone pages). For testing during the develpoment phase I used BroswerStack and multiple real devices, also the in-built Chrome DevTools.</p>
 <p>Based on the insights this comparison tool created a significant rise in sales that ended up in a visible extra profit for Samsung UK.</p>
 
 <!-- License -->

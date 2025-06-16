@@ -142,7 +142,7 @@ With the final calculation it was easy to see which insurance product is the bes
 <details>
 <summary>Database and store</summary>
   <ul>
-    <li><a href="">MySQL</a></li>
+    <li><a href="https://www.mysql.com/">MySQL</a></li>
   </ul>
 </details>
 
