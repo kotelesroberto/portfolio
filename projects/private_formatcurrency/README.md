@@ -14,7 +14,6 @@
 # :notebook_with_decorative_cover: ToC
 
 - [About the project](#star2-about-the-project)
-  - [Screenshots](#camera-screenshots)
   - [Tech Stack](#space_invader-tech-stack)
 - [License](#warning-license)
 
@@ -44,14 +43,6 @@ let price = '123456';
 let formattedPrice = formatCurrency.handleCurrencyAsString(price)
 console.log(formattedPrice);
 ```
-
-<!-- Screenshots -->
-
-### :camera: Screenshots
-
-<div align="center"> 
-  <img src="assets/fixlife-1.jpg" alt="screenshot" />
-</div>
 
 <!-- TechStack -->
 
