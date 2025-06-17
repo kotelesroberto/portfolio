@@ -8,7 +8,8 @@
 
   <p>
     I worked on this project whilst worked for <strong>Black Sun Plc.</strong>, London, between Marc 2015 and October 2017.
-  </p>§
+  </p>
+  
   <p>
     <img src="assets/blacksun.png" alt="Logo of Black Sun Plc." width="100" height="auto" />
   </p>
