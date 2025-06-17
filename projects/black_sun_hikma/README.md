@@ -99,7 +99,7 @@
 
 ### :space_invader: Tech Stack
 
-<p><a href="https://builtwith.com/?https%3a%2f%2fwww.go-ahead.com%2f">Full list of used technologies</a></p>
+<p><a href="https://builtwith.com/hikma.com">Full list of used technologies</a></p>
 
 <details>
   <summary>Client</summary>
