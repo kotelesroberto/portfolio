@@ -176,7 +176,7 @@ The final webapp was easy-to-access, user-friendly and soooo cool! It was full r
 
 ## :white_check_mark: My contribution to the project
 
-<p>I had to build this website from a design file. The solution is done by using WordPress engine and pixel-perfect, full responive frontend part. Also had to integrate Shopify functions (using Liquid templating) that is a massive part of the website. I kept my hands on each steps of the development and put the PMs, designers and developers to the same table, it was the guarantee of the final excellent product. My coding approaches made this project an outstanding, satisfying product that made the client happy.</p>
+<p>I had to build this website from a design file. The solution is done by using WordPress engine and pixel-perfect, full responsive frontend part. Also had to integrate Shopify functions (using Liquid templating) that is a massive part of the website. I kept my hands on each steps of the development and put the PMs, designers and developers to the same table, it was the guarantee of the final excellent product. My coding approaches made this project an outstanding, satisfying product that made the client happy.</p>
 
 <!-- License -->
 
