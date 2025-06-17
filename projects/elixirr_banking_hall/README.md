@@ -88,7 +88,7 @@
 
 ## :star2: About the project
 
-<p><strong>Six Storeys</strong> is a multi-level, boutique Soho venue blending dining, cocktails, and curated private spaces. Each floor offers a different mood—from relaxed entrance-level drinks to exclusive, inventive cocktail bars and fully-equipped event rooms. Designed around immersive interiors and artisanal offerings, it’s tailored for both casual nights out and elevated event experiences.</p>
+<p><strong>Banking Hall</strong> is a prestigious, architecturally significant events venue located in central London. With its exquisite Art Deco décor, flexible event spaces, professional in‑house services, and prime location, it caters to a wide range of high-end events—from weddings and corporate functions to private parties—while maintaining a timeless, glamorous ambiance. </p>
 
 <p><h4>What had to do?</h4>
   <ul>
