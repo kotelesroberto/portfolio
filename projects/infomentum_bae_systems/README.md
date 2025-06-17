@@ -109,6 +109,10 @@
   <img src="assets/baesystem-main.jpg" alt="screenshot" />
 </div>
 
+<div align="center"> 
+  <img src="assets/page-screenshot.jpg" alt="screenshot" />
+</div>
+
 <!-- TechStack -->
 
 ### :space_invader: Tech Stack
