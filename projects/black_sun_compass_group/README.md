@@ -133,11 +133,15 @@
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"  target="_blank">JavaScript</a></li>
-    <li><a href="https://jquery.com/"  target="_blank">JQuery</a></li>
     <li><a href="https://www.w3schools.com/html/html5_semantic_elements.asp" target="_blank">Semantic HTML5</a></li>
     <li><a href="https://www.w3schools.com/css/"  target="_blank">CSS3</a></li>
     <li><a href="https://business.adobe.com/products/experience-manager/adobe-experience-manager.html"  target="_blank">AEM</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"  target="_blank">JavaScript</a></li>
+    <li><a href="https://jquery.com/"  target="_blank">JQuery</a></li>
+    <li><a href="https://gsap.com/">Greensock</a></li>
+    <li><a href="https://www.ibm.com/think/topics/rest-apis"  target="_blank">RestAPI</a></li>
+    <li><a href="https://www.json.org/">JSON</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/XML/Guides/XML_introduction"  target="_blank">XML</a></li>
   </ul>
 </details>
 
@@ -145,6 +149,7 @@
   <summary>Backend</summary>
   <ul>
     <li><a href="#"  target="_blank">Java</a></li>
+    <li><a href="https://jade.tilab.com/">Jade</a></li>
     <li><a href="https://docs.oracle.com/cd/E13218_01/wlp/docs70/jsp/templats.htm"  target="_blank">JSP templates</a></li>
   </ul>
 </details>
@@ -162,6 +167,10 @@
     <li><a href="https://tortoisesvn.net/">Tortuise SVN</a></li>
     <li><a href="https://www.eclipse.org/topics/ide/">Eclipse</a></li>
     <li><a href="https://www.jslint.com/">JS Lint</a></li>
+    <li><a href="https://www.atlassian.com/software/jira">JIRA</a></li>
+    <li><a href="https://www.browserstack.com/">BrowserStack</a></li>
+    <li><a href="https://github.com/">GitHub</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Agile_software_development">Agile software development</a></li>
   </ul>
 </details>
 
