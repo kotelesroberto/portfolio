@@ -108,7 +108,7 @@
 
 ## :star2: About the project
 
-<p>As a freelancer I had to maintaine the website of the Domestos, that is a portfolio brand of the Unilever company.</p>
+<p>As a freelancer I had to maintain the website of the Domestos, that is a portfolio brand of the Unilever company.</p>
 
 <p>I had to improve stylesheet definitions and also template layouts of the website.</p>
 
