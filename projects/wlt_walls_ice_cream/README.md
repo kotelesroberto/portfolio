@@ -268,7 +268,9 @@
 
 ## :white_check_mark: My contribution to the project
 
-<p></p>
+<p>As a freelancer my contract had an expiration date, therefore the entire project should be done before the deadline, that just happened. I have created all stylesheets for each brands and also wrote scripts that helped QA team to double-check the solutions. Also created AEM teasers and components, managed AEM assets within a strict rule set.</p>
+
+<p>The Unilever client was highly satified with the quality and speed of the development, that was a fantastic feedback to me.</p>
 
 <!-- License -->
 
