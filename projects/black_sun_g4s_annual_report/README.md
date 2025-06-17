@@ -14,7 +14,7 @@
   </p>
 
   <h4>
-    <a href="http://www.annualreport.g4s.com/"  target="_blank">View teh solution</a>
+    <a href="http://www.annualreport.g4s.com/"  target="_blank">View the solution</a>
   </h4>
   <h4>
     <a href="#" title="Sorry, it's company secret"  target="_blank"><s>View code (company secret)</s></a>
