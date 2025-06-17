@@ -4,7 +4,7 @@
   <h1>Samsung UK (Cheil)</h1>
   
 <p align="left">
-    I worked at Cheil UK, London, taht is an internal agency of the Samsung company. Way of working at this company was in the office until 2021 but COVID-19 had broke out and started <strong>working from home</strong>.
+    I worked at Cheil UK, London, that is an internal agency of the Samsung company. Way of working at this company was in the office until 2021 but COVID-19 had broke out and started <strong>working from home</strong>.
   </p>
    
   <h4>
