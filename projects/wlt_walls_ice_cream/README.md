@@ -108,7 +108,7 @@
 
 ## :star2: About the project
 
-<p>As a freelancer I had to build and maintaine the whole ice cream portfolio of the Globus company.</p>
+<p>As a freelancer I had to build and maintaine the whole ice cream portfolio of the Unilever company.</p>
 
 <p>I had to create stylesheet definitions and also template layouts for all of these brands within the website:</p>
 <ul>
