@@ -1,6 +1,12 @@
 <div align="center">
-  <img src="assets/samsung-logo.png" alt="logo" width="200" height="auto" />
+  <img src="assets/sirai-logo.png" alt="logo" width="300" height="auto" />
+</div>
+<div align="center">
+  <img src="assets/awards.jpg" alt="logo"  height="auto" />
+</div>
+<br />
 
+<div align="center">
   <h1>Sirai House (Elixirr)</h1>
   
 <p>
