@@ -144,7 +144,9 @@ The final webapp was easy-to-access, user-friendly and soooo cool! It was full r
     <li><a href="https://www.jslint.com/">JS Lint</a></li>
     <li><a href="#">Bespoken content scraper on the local development</a></li>
     <li><a href="https://www.postman.com/">PostMan</a></li>
-    
+    <li><a href="https://www.bazaarvoice.com/">BazaarVoice</a></li>
+    <li><a href="https://tagmanager.google.com/">Google Analytics</a></li>
+    <li><a href="https://tagmanager.google.com/">Google Tag Manager</a></li>
   </ul>
 </details>
 
