@@ -66,14 +66,14 @@
   </ul>
 </p>
 
-<p><h4>Features for this project, developed by me:</h4>
+<p><h4>Features of this project, developed by me:</h4>
   <ul>
     <li>created pixel-perfect layout for every devices, all screen sizes</li>
     <li>mobile first, full responsive</li>
     <li>all content comes from  JSON file</li>
     <li>images were stored on Heroku server</li>
     <li>optimized page loading time, compressed images, compressed JS content into one file, browser cache to store what was loaded once, so the solution saved bandwith for the next page load</li>
-    <p>had to load the content from an XML/JSON file than process it (JSON stringify) and create a representation of the data in the memory</p>
+    <li>had to load the content from an XML/JSON file than process it (JSON stringify) and create a representation of the data in the memory</li>
   </ul>
 </p>
 
