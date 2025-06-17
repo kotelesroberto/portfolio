@@ -14,9 +14,6 @@
     <a href="https://web.archive.org/web/20211208161009/https://www.samsung.com/uk/" target="_blank">View site from 2022</a>
   </h4>
   <h4>
-    <a href="https://www.youtube.com/watch?v=BS8OWCfy2B8"  target="_blank">Watch Youtube video</a>
-  </h4>
-  <h4>
     <a href="#" title="Sorry, it's company secret"  target="_blank"><s>View code (company secret)</s></a>
   </h4>
 
@@ -56,6 +53,13 @@
 <p>As a <strong>Tech Lead</strong> I had to manage my team and also focus on finding the newest tech solutions to implement. At the same time, in 60% of my time I also wrote algorithms and created fantastic coded solutions. Made the external agencies connected to the internal Samsung team, also managed third-party contributions when we worked on the same project, together. It means we had daily stand ups where we shared our visions and ideas and also agreed in the path to follow. Working with various teams external and also in-house made me being confident in having the hat of the leader on and having hands on the projects.</p>
 <p>The main goal was always achieving the best user experience and making the visitors buying from the website. With my effective contribution the Samsung UK earned massive profit (around £3-4 million) per each product launch (phones, tablets and TVs)</p>
 <p>My role included travles to Warsaw where we, as team, had to work in a protected environment (no data leaks) on the digital representation of the new products. It was fun, really.</p>
+<p><u>Some of my available portfolio items are:</u></p>
+<ul>
+  <li><a href="https://github.com/kotelesroberto/portfolio/blob/main/projects/samsung_uk_comparison_tool">Samsung UK - Comparison Tool</a></li>
+  <li><a href="https://github.com/kotelesroberto/portfolio/blob/main/projects/samsung_uk_members_upgrade">Samsung UK - Samsung Upgrade Lounge and Members Upgrade</a></li>
+  <li><a href="https://github.com/kotelesroberto/portfolio/blob/main/projects/samsung_uk_help_me_choose">Samsung UK - Help me choose (Galaxy A series phones and QLED TVs)</a></li>
+  <li><a href="https://github.com/kotelesroberto/portfolio/blob/main/projects/samsung_uk_ie_banners">Samsung UK - IE banners</a></li>
+</ul>
 
 <!-- About the project -->
 
