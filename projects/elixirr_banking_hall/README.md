@@ -95,7 +95,6 @@
     <li>create pixel-perfect layout for every devices, all screen sizes</li>
     <li>mobile first, full responsive</li>
     <li>all content comes from JSON file with asyncronous RestAPI call</li>
-    <li></li>
   </ul>
 </p>
 
