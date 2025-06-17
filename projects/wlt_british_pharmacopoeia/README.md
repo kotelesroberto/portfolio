@@ -87,6 +87,8 @@ The final webapp was easy-to-access, user-friendly with a detailed search functi
 
 ### :space_invader: Tech Stack
 
+<p><a href="https://builtwith.com/?https%3a%2f%2fbeta.pharmacopoeia.com%2f">Full list of used technologies</a></p>
+
 <details>
   <summary>Client</summary>
   <ul>

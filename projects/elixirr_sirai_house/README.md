@@ -133,6 +133,8 @@ The final webapp was easy-to-access, user-friendly and soooo cool! It was full r
 
 ### :space_invader: Tech Stack
 
+<p><a href="https://builtwith.com/?https%3a%2f%2fsiraihouse.com%2f">Full list of used technologies</a></p>
+
 <details>
   <summary>Client</summary>
   <ul>

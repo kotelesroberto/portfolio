@@ -141,6 +141,8 @@
 
 ### :space_invader: Tech Stack
 
+<p><a href="https://builtwith.com/?https%3a%2f%2fwww.domestos.com%2fuk%2fhome.html">Full list of used technologies</a></p>
+
 <details>
   <summary>Client</summary>
   <ul>
