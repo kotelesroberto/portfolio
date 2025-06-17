@@ -19,6 +19,9 @@
     <a href="https://www.sixstoreys.com/" target="_blank">View site</a>
   </h4>
   <h4>
+    <a href="https://web.archive.org/web/20200804080806/https://www.sixstoreys.com/" target="_blank">View site from 2018</a>
+  </h4>
+  <h4>
     <a href="#" title="Sorry, it's company secret"  target="_blank"><s>View code (company secret)</s></a>
   </h4>
 
