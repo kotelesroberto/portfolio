@@ -149,7 +149,8 @@
   <li><a href="projects/elixirr_sirai_house" target="_self">Sirai House</a></li>
   <li><a href="projects/elixirr_six_stories" target="_self">Six Storeys</a></li>
   <li><a href="projects/elixirr_banking_hall" target="_self">Banking Hall</a></li>
-  <li><a href="projects/wlt_walls_ice_cream" target="_self">Walls Ice Creams</a></li>
+  <li><a href="projects/wlt_walls_ice_cream" target="_self">Wall's Ice Creams</a></li>
+  <li><a href="projects/wlt_domestos" target="_self">Domestos</a></li>
   <li><a href="projects/kps_office" target="_self">Office shoes</a></li>
   <li><a href="projects/infomentum_bae_systems" target="_self">BAE Systems</a></li>
   <li><a href="projects/black_sun" target="_self">Black Sun Plc.</a></li>
