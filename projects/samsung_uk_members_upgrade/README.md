@@ -170,7 +170,7 @@ The final webapp was easy-to-access, user-friendly and soooo cool! It was full r
 
 ## :warning: License
 
-Distributed under the Software copyright of Williams Lea Tag. Any non-authorized usage of their code leads to legal consequences, thank you.
+Distributed under the Software copyright of Cheil UK / Samsung UK. Any non-authorized usage of their code leads to legal consequences, thank you.
 
 <!-- Contact -->
 
