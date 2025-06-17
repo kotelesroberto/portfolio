@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/fixlife-logo.svg" alt="logo" width="200" height="auto" />
+  <img src="assets/fixlife-logo.jpg" alt="logo" width="400" height="auto" />
 </div>
 <br />
 
