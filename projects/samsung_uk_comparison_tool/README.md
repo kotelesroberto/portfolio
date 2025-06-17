@@ -123,6 +123,7 @@ The final webapp was easy-to-access, user-friendly and soooo cool! It was full r
     <li><a href="https://www.bazaarvoice.com/">BazaarVoice</a></li>
     <li><a href="https://tagmanager.google.com/">Google Analytics</a></li>
     <li><a href="https://tagmanager.google.com/">Google Tag Manager</a></li>
+    <li><a href="https://www.browserstack.com/">BrowserStack</a></li>
   </ul>
 </details>
 

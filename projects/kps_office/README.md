@@ -144,9 +144,10 @@ Maybe you can mention me or this repo in the acknowledgements too
     <li><a href="https://www.jslint.com/">JS Lint</a></li>
     <li><a href="https://github.com/features/actions">GitHub Actions</a></li>
     <li><a href="https://docs.github.com/en/actions/writing-workflows/about-workflows">GitHub Workflow</a></li>
-  <li><a href="https://www.bazaarvoice.com/">BazaarVoice</a></li>
-  <li><a href="https://tagmanager.google.com/">Google Analytics</a></li>
-  <li><a href="https://tagmanager.google.com/">Google Tag Manager</a></li>
+    <li><a href="https://www.bazaarvoice.com/">BazaarVoice</a></li>
+    <li><a href="https://tagmanager.google.com/">Google Analytics</a></li>
+    <li><a href="https://tagmanager.google.com/">Google Tag Manager</a></li>
+    <li><a href="https://www.browserstack.com/">BrowserStack</a></li>
   </ul>
 </details>
 

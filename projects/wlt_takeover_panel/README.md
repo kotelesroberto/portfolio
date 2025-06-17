@@ -121,6 +121,7 @@ The final webapp was easy-to-access, user-friendly with a detailed search functi
     <li><a href="https://www.jslint.com/">JS Lint</a></li>
     <li><a href="https://github.com/features/actions">GitHub Actions</a></li>
     <li><a href="https://docs.github.com/en/actions/writing-workflows/about-workflows">GitHub Workflow</a></li>
+    <li><a href="https://www.browserstack.com/">BrowserStack</a></li>
   </ul>
 </details>
 

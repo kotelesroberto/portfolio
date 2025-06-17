@@ -253,6 +253,7 @@
     <li><a href="https://www.jenkins.io/">Jenkins</a></li>
     <li><a href="https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/aem-6-3-download-link/m-p/261740">AEM 6.3</a></li>
     <li><a href="https://www.atlassian.com/software/jira">JIRA</a></li>
+    <li><a href="https://www.browserstack.com/">BrowserStack</a></li>
   </ul>
 </details>
 
