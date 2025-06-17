@@ -9,7 +9,7 @@
 <br />
 
 <div align="center">
-  <h1>Banking Hall (Elixirr)</h1>
+  <h1>Wall's Ice Creams (Williams Lea Tag)</h1>
   
 <p>
     I worked on this project whilst worked as a Freelancer at Williams Lea Tag, London.
