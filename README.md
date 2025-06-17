@@ -146,9 +146,9 @@
   <li><a href="projects/samsung_uk_help_me_choose" target="_self">Samsung UK - Help me choose (Galaxy A series phones and QLED TVs)</a></li>
   <li><a href="projects/samsung_uk_ie_banners" target="_self">Samsung UK - IE banners</a></li>
   <li><a href="projects/knox_projectmanager_integration" target="_self">KNOX >>> Projectmanager.com data integrator</a></li>
-  <li><a href="projects/wlt_sirai_house" target="_self">Sirai House</a></li>
-  <li><a href="projects/wlt_six_stories" target="_self">Six Storeys</a></li>
-  <li><a href="projects/wlt_banking_hall" target="_self">Banking Hall</a></li>
+  <li><a href="projects/elixirr_sirai_house" target="_self">Sirai House</a></li>
+  <li><a href="projects/elixirr_six_stories" target="_self">Six Storeys</a></li>
+  <li><a href="projects/elixirr_banking_hall" target="_self">Banking Hall</a></li>
   <li><a href="projects/wlt_walls_ice_cream" target="_self">Walls Ice Creams</a></li>
   <li><a href="projects/kps_office" target="_self">Office shoes</a></li>
   <li><a href="projects/infomentum_bae_systems" target="_self">BAE Systems</a></li>
