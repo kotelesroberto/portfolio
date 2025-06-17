@@ -161,7 +161,7 @@
 <p><h4>Features of this project:</h4>
   <ul>
     <li>this is an AEM 6.3 site</li>
-    <li>all content is dynamic, managed by editors or people with hihger level access</li>
+    <li>all content is dynamic, managed by editors or people with higher level access</li>
     <li>pixel-perfect layout for every devices, all screen sizes</li>
     <li>mobile first, full responsive</li>
     <li>optimized page loading time, compressed images, compressed JS content into one file, browser cache to store what was loaded once, so the solution saved bandwith for the next page load</li>
@@ -270,7 +270,7 @@
 
 <p>As a freelancer my contract had an expiration date, therefore the entire project should be done before the deadline, that just happened. I have created all stylesheets for each brands and also wrote scripts that helped QA team to double-check the solutions. Also created AEM teasers and components, managed AEM assets within a strict rule set.</p>
 
-<p>The Unilever client was highly satified with the quality and speed of the development, that was a fantastic feedback to me.</p>
+<p>The Unilever client was highly satisfied with the quality and speed of the development, that was a fantastic feedback to me.</p>
 
 <!-- License -->
 
