@@ -8,7 +8,7 @@
   </p>
    
   <h4>
-    <a href="https://www.samsung.com/uk/" target="_blank"><s>View site</s></a>
+    <a href="https://www.samsung.com/uk/" target="_blank">View site</a>
   </h4>
   <h4>
     <a href="#" title="Sorry, it's company secret"  target="_blank"><s>View code (company secret)</s></a>
