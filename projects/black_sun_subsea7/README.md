@@ -88,7 +88,7 @@
 ### :camera: Screenshots
 
 <div align="center"> 
-  <img src="assets/Subsea7.jpg" alt="screenshot" />
+  <img src="assets/subsea7.jpg" alt="screenshot" />
 </div>
 
 <!-- TechStack -->
