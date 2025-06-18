@@ -43,7 +43,7 @@
 <p><strong>Subsea7 S.A.</strong> is a Luxembourg-registered, London-headquartered global leader in offshore engineering, construction, and subsea services for the energy industry. It employs around 15,000 people across 30+ countries, completing over 1,000 projects worldwide.</p>
 <p>The company provides end‑to‑end offshore solutions—from concept and engineering to installation, maintenance, and decommissioning—across oil, gas, renewables, and emerging energy, supported by advanced technology, robust assets, and a global network.</p>
 
-  <h2>📌 Full Energy Lifecycle Solutions</h2>
+  <h3>Full Energy Lifecycle Solutions</h3>
   <ul>
     <li><strong>Concept, FEED & Engineering</strong>: Early involvement to optimise project design and forecasting accuracy.</li>
     <li><strong>Procurement & Fabrication</strong>: Supply chain efficiency and onshore fabrication at strategic yard and spoolbase locations.</li>
@@ -52,25 +52,25 @@
     <li><strong>Field Life Extension & Re-use</strong>: Includes electrification, hook‑ups, and life‑extension technologies.</li>
   </ul>
 
-  <h2>🔧 SURF & Conventional Installations</h2>
+  <h3>SURF & Conventional Installations</h3>
   <ul>
     <li>Specialists in subsea umbilicals, risers, and flowlines (SURF), pipelines, and associated equipment across deep and shallow waters.</li>
     <li>Integrated EPCI capabilities, including tie-ins, flexible flowlines, moorings, and floating production systems (FPS).</li>
   </ul>
 
-  <h2>⚡ Renewables & Emerging Energy</h2>
+  <h3>Renewables & Emerging Energy</h3>
   <ul>
     <li>Through its Seaway7 subsidiary, Subsea7 supports offshore wind projects, delivering wind turbine foundations, cables, heavy lifting, and installation via jack-up and heavy‑lift vessels.</li>
     <li>Also active in carbon capture & storage, hydrogen, and lower-carbon oil and gas, including biofuel trials and system electrification.</li>
   </ul>
 
-  <h2>🧠 Enabling Products & Innovation</h2>
+  <h3>Enabling Products & Innovation</h3>
   <ul>
     <li>Offers an advanced portfolio of enabling technologies: spoolbases, highly capable fleet, ROVs/tooling, and digital platforms.</li>
     <li>Invests in tech: nano‑engineered sensor platforms (award‑winning), remote monitoring, data‑driven decision support via 4Subsea, OneSubsea JV.</li>
   </ul>
 
-  <h2>🌍 Global Reach & Partnerships</h2>
+  <h3>Global Reach & Partnerships</h3>
   <ul>
     <li>Operates worldwide, with offices, yards, and joint ventures in major offshore energy regions.</li>
     <li>Active in major projects in Gulf of Mexico, North Sea, Brazil, Trinidad & Tobago, etc., delivering SURF, FPS installation, EPCI contracts.</li>
