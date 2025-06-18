@@ -44,38 +44,38 @@
 <section>
   <h3>1. Diamond Mining & Trading</h3>
   <ul>
-    <li>Engaged in exploration and extraction of natural diamonds across Botswana, Namibia, Canada, and South Africa, operating under joint ventures and wholly-owned entities :contentReference[oaicite:0]{index=0}.</li>
-    <li>The Diamond Trading Company (DTC) sorts, values, and distributes approximately one-third of the world’s rough diamonds to sightholder buyers :contentReference[oaicite:1]{index=1}.</li>
+    <li>Engaged in exploration and extraction of natural diamonds across Botswana, Namibia, Canada, and South Africa, operating under joint ventures and wholly-owned entities.</li>
+    <li>The Diamond Trading Company (DTC) sorts, values, and distributes approximately one-third of the world’s rough diamonds to sightholder buyers.</li>
   </ul>
 
   <h3>2. Diamond Verification & Industry Instruments</h3>
   <ul>
-    <li>Develops and supplies verification instruments (e.g., DiamondProof, SynthDetect, AMS2, DiamondView) to detect natural versus synthetic diamonds with high accuracy :contentReference[oaicite:2]{index=2}.</li>
-    <li>Manufactures these instruments at its UK R&D facility and provides global support, maintenance, instrumentation training, and demos :contentReference[oaicite:3]{index=3}.</li>
+    <li>Develops and supplies verification instruments (e.g., DiamondProof, SynthDetect, AMS2, DiamondView) to detect natural versus synthetic diamonds with high accuracy.</li>
+    <li>Manufactures these instruments at its UK R&D facility and provides global support, maintenance, instrumentation training, and demos.</li>
   </ul>
 
   <h3>3. Grading, Testing & Educational Services</h3>
   <ul>
-    <li>Through the De Beers Institute of Diamonds (formerly IIDGR), offers diamond grading, melee and parcel testing, and synthetic detection services from labs in Maidenhead (UK), Antwerp (Belgium), and Surat (India) :contentReference[oaicite:4]{index=4}.</li>
-    <li>Delivers accredited training courses—online and in-person—on topics like the 4Cs, grading, and synthetic detection for diamond professionals :contentReference[oaicite:5]{index=5}.</li>
+    <li>Through the De Beers Institute of Diamonds (formerly IIDGR), offers diamond grading, melee and parcel testing, and synthetic detection services from labs in Maidenhead (UK), Antwerp (Belgium), and Surat (India).</li>
+    <li>Delivers accredited training courses—online and in-person—on topics like the 4Cs, grading, and synthetic detection for diamond professionals.</li>
   </ul>
 
   <h3>4. Retail & Consumer Offerings</h3>
   <ul>
-    <li>Operates De Beers Jewellers (rebranded De Beers London) and the Forevermark diamond brand for consumers, featuring customizable, lab-quality jewelry :contentReference[oaicite:6]{index=6}.</li>
-    <li>Offers bespoke services—live chat, virtual appointments, engraving, cleaning, resizing, remounting, and post-sale care—available globally online and through flagship stores :contentReference[oaicite:7]{index=7}.</li>
+    <li>Operates De Beers Jewellers (rebranded De Beers London) and the Forevermark diamond brand for consumers, featuring customizable, lab-quality jewelry.</li>
+    <li>Offers bespoke services—live chat, virtual appointments, engraving, cleaning, resizing, remounting, and post-sale care—available globally online and through flagship stores.</li>
   </ul>
 
   <h3>5. Digital & E‑commerce Experience</h3>
   <ul>
-    <li>Utilizes Salesforce Commerce Cloud across 18 markets, delivering features like product personalization, 360° views, size guidance, lead-time estimates, and integrated online-offline purchasing workflows :contentReference[oaicite:8]{index=8}.</li>
-    <li>Provides virtual consultations and seamless CRM integration during COVID‑era and beyond for enriched customer engagement :contentReference[oaicite:9]{index=9}.</li>
+    <li>Utilizes Salesforce Commerce Cloud across 18 markets, delivering features like product personalization, 360° views, size guidance, lead-time estimates, and integrated online-offline purchasing workflows.</li>
+    <li>Provides virtual consultations and seamless CRM integration during COVID‑era and beyond for enriched customer engagement.</li>
   </ul>
 
   <h3>6. Sustainability & Traceability Initiatives</h3>
   <ul>
-    <li>Implements the Kimberley Process for conflict‑free diamonds and tracks stones through the “Tracr” blockchain platform :contentReference[oaicite:10]{index=10}.</li>
-    <li>Conserves six hectares of land for every hectare mined and sets carbon-neutrality commitments supported by AI, blockchain, and conservation practices :contentReference[oaicite:11]{index=11}.</li>
+    <li>Implements the Kimberley Process for conflict‑free diamonds and tracks stones through the “Tracr” blockchain platform.</li>
+    <li>Conserves six hectares of land for every hectare mined and sets carbon-neutrality commitments supported by AI, blockchain, and conservation practices.</li>
   </ul>
 </section>
 

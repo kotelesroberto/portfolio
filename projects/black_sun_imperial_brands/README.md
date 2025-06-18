@@ -84,7 +84,7 @@
 
 ## :star2: About the project
 
-<p>The task was creating an eye-catching official webpage for Subsea7.</p>
+<p>The task was creating an eye-catching official webpage for Imperial Brands.</p>
 
 <!-- Screenshots -->
 
