@@ -43,46 +43,46 @@
 
 ## :family: About the company
 
-<p><strong>SUEK</strong>, founded in 2001 and headquartered in Moscow, is Russia’s largest coal producer and one of the world’s leading coal mining and energy companies. Operating primarily across Siberia and the Far East, it maintains a significant global presence :contentReference[oaicite:0]{index=0}.</p>
+<p><strong>SUEK</strong>, founded in 2001 and headquartered in Moscow, is Russia’s largest coal producer and one of the world’s leading coal mining and energy companies. Operating primarily across Siberia and the Far East, it maintains a significant global presence.</p>
 
   <h2>Operations & Capacity</h2>
   <ul>
-    <li>Owns 27 open-pit and underground mines, plus 27 power plants across Siberia and the Far East :contentReference[oaicite:1]{index=1}.</li>
-    <li>Produces over 100 million tons of high-calorific, low-sulphur coal annually, with proven reserves of ~7.5–7.6 billion tonnes :contentReference[oaicite:2]{index=2}.</li>
-    <li>Operates extensive logistics via bulk terminals and seaports (Vanino, Murmansk), delivering coal to over 40 countries :contentReference[oaicite:3]{index=3}.</li>
+    <li>Owns 27 open-pit and underground mines, plus 27 power plants across Siberia and the Far East.</li>
+    <li>Produces over 100 million tons of high-calorific, low-sulphur coal annually, with proven reserves of ~7.5–7.6 billion tonnes.</li>
+    <li>Operates extensive logistics via bulk terminals and seaports (Vanino, Murmansk), delivering coal to over 40 countries.</li>
   </ul>
 
   <h2>Employees & Scale</h2>
   <ul>
-    <li>Employs approximately 70,000 people across 12–14 Russian regions :contentReference[oaicite:4]{index=4}.</li>
-    <li>Accounts for roughly 24–28% of Russia’s coal output, ranking among the top five coal companies globally :contentReference[oaicite:5]{index=5}.</li>
+    <li>Employs approximately 70,000 people across 12–14 Russian regions.</li>
+    <li>Accounts for roughly 24–28% of Russia’s coal output, ranking among the top five coal companies globally.</li>
   </ul>
 
   <h2>Products & Technologies</h2>
   <ul>
-    <li>Focuses on high-quality thermal coal suitable for HELE (High-Efficiency, Low-Emission) power plants :contentReference[oaicite:6]{index=6}.</li>
-    <li>Invests heavily in coal washing, flotation, methane capture for power, digitalization, and automated mining :contentReference[oaicite:7]{index=7}.</li>
+    <li>Focuses on high-quality thermal coal suitable for HELE (High-Efficiency, Low-Emission) power plants.</li>
+    <li>Invests heavily in coal washing, flotation, methane capture for power, digitalization, and automated mining.</li>
   </ul>
 
   <h2>Environmental & Safety Initiatives</h2>
   <ul>
-    <li>Invested over US$400 million in clean-coal technologies: washing plants, water treatment, dust control, land reclamation :contentReference[oaicite:8]{index=8}.</li>
-    <li>Operates Russia’s first coal-mine methane power station and modernizes environmental controls at ports and facilities :contentReference[oaicite:9]{index=9}.</li>
-    <li>Achieved strong ESG ratings for coal quality, lower emissions, and board governance; ranked 11th of 110 in Russia by RAEX :contentReference[oaicite:10]{index=10}.</li>
+    <li>Invested over US$400 million in clean-coal technologies: washing plants, water treatment, dust control, land reclamation.</li>
+    <li>Operates Russia’s first coal-mine methane power station and modernizes environmental controls at ports and facilities.</li>
+    <li>Achieved strong ESG ratings for coal quality, lower emissions, and board governance; ranked 11th of 110 in Russia by RAEX.</li>
   </ul>
 
   <h2>Global Market & Export</h2>
   <ul>
-    <li>Exports coal to 48 countries across five continents, with Asia-Pacific as a key market; exports account for ~67% of volumes toward Asia-Pacific :contentReference[oaicite:11]{index=11}.</li>
-    <li>Registered Black Sand Commodities FZ-LLC in UAE (2022) to expand and diversify global trading :contentReference[oaicite:12]{index=12}.</li>
-    <li>Member of the World Coal Association, signaling commitment to global cooperation and coal-sector standards :contentReference[oaicite:13]{index=13}.</li>
+    <li>Exports coal to 48 countries across five continents, with Asia-Pacific as a key market; exports account for ~67% of volumes toward Asia-Pacific.</li>
+    <li>Registered Black Sand Commodities FZ-LLC in UAE (2022) to expand and diversify global trading.</li>
+    <li>Member of the World Coal Association, signaling commitment to global cooperation and coal-sector standards.</li>
   </ul>
 
 <!-- About the project -->
 
 ## :star2: About the project
 
-<p>The task was creating an eye-catching official webpage for Subsea7.</p>
+<p>The task was creating an eye-catching official webpage for SUEK.</p>
 
 <!-- Screenshots -->
 
