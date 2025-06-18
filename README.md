@@ -52,7 +52,7 @@
 - 🌱 I’m currently learning how to work with AI
 - 🤝 I’m looking to collaborate on challenging IT projects where I could contribute with my best
 - 🎓 Based on my University studies I've got master degree of Math and IT sciences. Also studied psychology.
-- 📫 How to reach me: send a message on [LinkedIn]([link-linkedin])
+- 📫 How to reach me: send a message on [LinkedIn](https://www.linkedin.com/in/robertkoteles/)
 - ❤️ I love learning new coding techniques, educate myself, learn new languages, reading books, playing music, socialising
 - ⚡ Fun facts: 🏆 I hold a Guiness World Record | 🚴🏿‍♂️ I visited all European countries on my bicycle | 🎼 Been a recording artist as musician
 
