@@ -15,7 +15,7 @@
   </p>
 
   <h4>
-    <a href="https://www.subsea7.com/"  target="_blank">View the webpage</a>
+    <a href="https://www.subsea7.com/"  target="_blank">View website</a>
   </h4>
   <h4>
     <a href="#" title="Sorry, it's company secret"  target="_blank"><s>View code (company secret)</s></a>
