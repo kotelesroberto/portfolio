@@ -10,12 +10,17 @@
   <h4>
     <a href="https://www.samsung.com/uk/" target="_blank">View site</a>
   </h4>
-  <h4>
-    <a href="https://www.youtube.com/watch?v=BS8OWCfy2B8"  target="_blank">Watch Youtube video</a>
-  </h4>
+
   <h4>
     <a href="#" title="Sorry, it's company secret"  target="_blank"><s>View code (company secret)</s></a>
   </h4>
+
+  <h4>Video</h4>
+<!-- BEGIN YOUTUBE-CARDS -->
+
+[![Samsung UK - Comparison Tool](https://ytcards.demolab.com/?id=BS8OWCfy2B8&title=Samsung+UK+Comparison+Tool&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Samsung UK - Comparison Tool")](https://www.youtube.com/watch?v=BS8OWCfy2B8)
+
+  <!-- END YOUTUBE-CARDS -->
 
 </div>
 
