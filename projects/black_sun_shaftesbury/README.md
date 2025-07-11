@@ -100,7 +100,7 @@
 
 ### :space_invader: Tech Stack
 
-<p><a href="https://builtwith.com/?https%3a%2f%2fwww.rank.com%2f">Full list of used technologies</a></p>
+<p><a href="https://builtwith.com/?https%3a%2f%2fwww.shaftesbury.co.uk%2f">Full list of used technologies</a></p>
 
 <details>
   <summary>Client</summary>
