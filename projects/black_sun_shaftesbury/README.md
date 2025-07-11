@@ -86,7 +86,7 @@
 
 ## :star2: About the project
 
-<p>The task was creating an eye-catching official webpage for Rank Group.</p>
+<p>The task was creating an eye-catching official webpage for Shaftesbury.</p>
 
 <!-- Screenshots -->
 
