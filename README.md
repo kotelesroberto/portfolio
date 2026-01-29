@@ -14,6 +14,7 @@
 - [Skills](#wrench-languages-libraries--frameworks)
 - [Awards](#trophy-awards)
 - [References](#hearts-references)
+- [My crazy superpowers](#collision-my-crazy-superpowers)
 
 <!-- Introduction -->
 
@@ -236,6 +237,28 @@
     <a href="https://www.linkedin.com/in/peter-szabo-39504485/" target="_blank">Peter Szabo, C#.NET Architect and Lead Developer , Black Sun Plc.</a>
   </li>
 </ul>
+
+<!-- My crazy superpowers -->
+
+## :collision: My crazy superpowers
+
+### :musical_score: I am a professional musician
+
+Read more about my life as musician <a href="projects/music" target="_self">here</a>!
+
+### :airplane: The world is my home
+
+Read more about my travel experiences <a href="projects/travel" target="_self">here</a>!
+
+### :sos: Charity is my second nature
+
+Read more about my activities <a href="projects/charity" target="_self">here</a>!
+
+### :toolbox: DIY is my second second nature
+
+Read more about my skills and projects I've done <a href="projects/diy" target="_self">here</a>!
+
+![Robert Koteles, musician](https://raw.githubusercontent.com/kotelesroberto/portfolio/master/assets/recommendation_victoria_holland.png)
 
 <!-- Recommendations -->
 
