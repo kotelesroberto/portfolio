@@ -22,11 +22,11 @@
 ### :camera: Some of my photos
 
 <div align="center"> 
-  <img src="assets/superpower/diy_parquette1.jpg" alt="photo" />
+  <img src="/assets/superpower/diy_parquette1.jpg" alt="photo" />
 </div>
 <div align="center"> 
-  <img src="assets/superpower/diy_parquette2.jpg" alt="photo" />
+  <img src="/assets/superpower/diy_parquette2.jpg" alt="photo" />
 </div>
 <div align="center"> 
-  <img src="assets/superpower/diy_tv.jpg" alt="photo" />
+  <img src="/assets/superpower/diy_tv.jpg" alt="photo" />
 </div>

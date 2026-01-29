@@ -31,23 +31,23 @@
 ### :camera: Some of my photos
 
 <div align="center"> 
-  <img src="assets/superpower/charity1.jpg" alt="photo" />
+  <img src="/assets/superpower/charity1.jpg" alt="photo" />
 </div>
 <div align="center"> 
-  <img src="assets/superpower/charity2.jpg" alt="photo" />
+  <img src="/assets/superpower/charity2.jpg" alt="photo" />
 </div>
 <div align="center"> 
-  <img src="assets/superpower/charity3.jpg" alt="photo" />
+  <img src="/assets/superpower/charity3.jpg" alt="photo" />
 </div>
 <div align="center"> 
-  <img src="assets/superpower/charity4.jpg" alt="photo" />
+  <img src="/assets/superpower/charity4.jpg" alt="photo" />
 </div>
 <div align="center"> 
-  <img src="assets/superpower/charity5.jpg" alt="photo" />
+  <img src="/assets/superpower/charity5.jpg" alt="photo" />
 </div>
 <div align="center"> 
-  <img src="assets/superpower/charity6_szeged.jpg" alt="photo" />
+  <img src="/assets/superpower/charity6_szeged.jpg" alt="photo" />
 </div>
 <div align="center"> 
-  <img src="assets/superpower/charity7_ukranian_refugees.jpg" alt="photo" />
+  <img src="/assets/superpower/charity7_ukranian_refugees.jpg" alt="photo" />
 </div>
