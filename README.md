@@ -61,7 +61,7 @@
 
 ## :bulb: Some of my portfolio items
 
-![Some of the brands I worked for](https://raw.githubusercontent.com/kotelesroberto/portfolio/master/assets/linkedin-cover-brands.jpeg)
+![Some of the brands I've worked for](https://raw.githubusercontent.com/kotelesroberto/portfolio/master/assets/linkedin-cover-brands.jpg)
 
 #### :necktie: Corporate projects
 
