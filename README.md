@@ -238,6 +238,16 @@
   </li>
 </ul>
 
+<!-- Recommendations -->
+
+## :handshake: Recommendations
+
+![Recommendation by Victoria Holland](https://raw.githubusercontent.com/kotelesroberto/portfolio/master/assets/recommendation_victoria_holland.png)
+![Recommendation by Reece Tiwari](https://raw.githubusercontent.com/kotelesroberto/portfolio/master/assets/recommendation_reece_tiwari.png)
+![Recommendation by Gavin Mannings](https://raw.githubusercontent.com/kotelesroberto/portfolio/master/assets/recommendation_gavin_mannings.png)
+![Recommendation by Guy Cross](https://raw.githubusercontent.com/kotelesroberto/portfolio/master/assets/recommendation_guy_cross.png)
+![Recommendation by Dr. Krishna Sapkota](https://raw.githubusercontent.com/kotelesroberto/portfolio/master/assets/recommendation_krishna_sapkota.png)
+
 <!-- My crazy superpowers -->
 
 ## :collision: My crazy superpowers
@@ -259,16 +269,6 @@ Read more about my activities <a href="projects/charity" target="_self">here</a>
 Read more about my skills and projects I've done <a href="projects/diy" target="_self">here</a>!
 
 ![Robert Koteles, musician](https://raw.githubusercontent.com/kotelesroberto/portfolio/master/assets/recommendation_victoria_holland.png)
-
-<!-- Recommendations -->
-
-## :handshake: Recommendations
-
-![Recommendation by Victoria Holland](https://raw.githubusercontent.com/kotelesroberto/portfolio/master/assets/recommendation_victoria_holland.png)
-![Recommendation by Reece Tiwari](https://raw.githubusercontent.com/kotelesroberto/portfolio/master/assets/recommendation_reece_tiwari.png)
-![Recommendation by Gavin Mannings](https://raw.githubusercontent.com/kotelesroberto/portfolio/master/assets/recommendation_gavin_mannings.png)
-![Recommendation by Guy Cross](https://raw.githubusercontent.com/kotelesroberto/portfolio/master/assets/recommendation_guy_cross.png)
-![Recommendation by Dr. Krishna Sapkota](https://raw.githubusercontent.com/kotelesroberto/portfolio/master/assets/recommendation_krishna_sapkota.png)
 
 [badge-linkedin]: https://img.shields.io/static/v1?label=%20&message=linkedin&labelColor=0077B5&color=0077B5&style=flat-square&logo=linkedin
 [link-linkedin]: https://www.linkedin.com/in/robertkoteles/
