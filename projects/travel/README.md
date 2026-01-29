@@ -1,5 +1,5 @@
 <div>
-  <h1>The world os too good to not to discover!</h1>
+  <h1>The world is too good to not to discover!</h1>
 
   <ul>
     <li>
