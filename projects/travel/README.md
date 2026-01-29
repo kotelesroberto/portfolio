@@ -9,7 +9,7 @@
       Additionally I've traveled all around the world. 
     </li>
     <li>
-      Been a keen and fanatic bicycle rider and visited almost all (!) European countries by bycicle! 
+      Been a keen and fanatic bicycle rider and visited almost all (!) European countries by bicycle! 
     </li>
   </ul>
 </div>
