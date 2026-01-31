@@ -36,9 +36,9 @@
 
 [![Playing music in studio](https://ytcards.demolab.com/?id=8uSjdfNy5sQ&title=Studio+song&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Playing music in studio")](https://youtube.com/watch?v=8uSjdfNy5sQ)
 
-[![Rockin Chair Band](https://ytcards.demolab.com/?id=sLwblU7Wvts&title=Studio+song&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Rockin Chair Band")](https://youtube.com/watch?v=sLwblU7Wvts)
+[![Rockin Chair Band](https://ytcards.demolab.com/?id=sLwblU7Wvts&title=Professional+gig&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Rockin Chair Band")](https://youtube.com/watch?v=sLwblU7Wvts)
 
-[![Rockin Chair Band](https://ytcards.demolab.com/?id=mB28Z_8R2ME&title=Studio+song&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Rockin Chair Band")](https://youtube.com/watch?v=mB28Z_8R2ME)
+[![Rockin Chair Band](https://ytcards.demolab.com/?id=mB28Z_8R2ME&title=Professional+gig&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Rockin Chair Band")](https://youtube.com/watch?v=mB28Z_8R2ME)
 
 <!-- END YOUTUBE-CARDS -->
 
