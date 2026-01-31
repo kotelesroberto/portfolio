@@ -21,6 +21,27 @@
 
 </div>
 
+<!-- Videos -->
+
+<h4>Videos</h4>
+<!-- BEGIN YOUTUBE-CARDS -->
+
+[![Playing music in Zanzibar](https://ytcards.demolab.com/?id=R46tDf6Cldk&title=Swahili+song&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Playing music in Zanzibar")](https://youtube.com/watch?v=R46tDf6Cldk)
+
+[![Gig in the Soho, London](https://ytcards.demolab.com/?id=_d_jJTpMnVY&title=Gig+in+the+SOHO&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Gig in the Soho, London")](https://youtube.com/watch?v=_d_jJTpMnVY)
+
+[![Jam harmonica solo: quick and efficient](https://ytcards.demolab.com/?id=qJIrXHQoUFA&title=Harmonica+solo&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Jam harmonica solo: quick and efficient")](https://youtube.com/shorts/qJIrXHQoUFA)
+
+[![Harmonica solo during Prince of Wales outro](https://ytcards.demolab.com/?id=vVWeBSgVZQQ&title=Powerful+solo&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Harmonica solo during Prince of Wales outro")](https://youtube.com/shorts/vVWeBSgVZQQ)
+
+[![Playing music in studio](https://ytcards.demolab.com/?id=8uSjdfNy5sQ&title=Studio+song&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Playing music in studio")](https://youtube.com/watch?v=8uSjdfNy5sQ)
+
+[![Rockin Chair Band](https://ytcards.demolab.com/?id=sLwblU7Wvts&title=Studio+song&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Rockin Chair Band")](https://youtube.com/watch?v=sLwblU7Wvts)
+
+[![Rockin Chair Band](https://ytcards.demolab.com/?id=mB28Z_8R2ME&title=Studio+song&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Rockin Chair Band")](https://youtube.com/watch?v=mB28Z_8R2ME)
+
+<!-- END YOUTUBE-CARDS -->
+
 <br />
 
 <!-- Photos -->
