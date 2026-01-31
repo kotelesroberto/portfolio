@@ -67,12 +67,12 @@
 
 <ul>
   <li><a href="projects/d_and_g_whirpool_care" target="_self">Whirpool Care (D&G)</a></li>
-  <li><a href="projects/wlt_british_pharmacopoeia_admin" target="_self">British Pharmacopoeia Admin</a></li>
-  <li><a href="projects/wlt_british_pharmacopoeia" target="_self">British Pharmacopoeia</a></li>
+  <li><a href="projects/wlt_british_pharmacopoeia_admin" target="_self">British Pharmacopoeia Admin (Governmental)</a></li>
+  <li><a href="projects/wlt_british_pharmacopoeia" target="_self">British Pharmacopoeia (Governmental)</a></li>
   <li><a href="projects/wlt_takeover_panel" target="_self">Takeover Panel</a></li>
-  <li><a href="projects/wlt_the_gazette" target="_self">The Gazette</a></li>
-  <li><a href="projects/wlt_the_gazette_new" target="_self">The Gazette (new, beta)</a></li>
-  <li><a href="projects/wlt_fca" target="_self">FCA</a></li>
+  <li><a href="projects/wlt_the_gazette" target="_self">The Gazette (Governmental)</a></li>
+  <li><a href="projects/wlt_the_gazette_new" target="_self">The Gazette (new, beta) (Governmental)</a></li>
+  <li><a href="projects/wlt_fca" target="_self">FCA (Governmental)</a></li>
   <li><a href="projects/samsung_uk" target="_self">Samsung UK</a></li>
   <li><a href="projects/samsung_uk_comparison_tool" target="_self">Samsung UK - Comparison Tool</a></li>
   <li><a href="projects/samsung_uk_members_upgrade" target="_self">Samsung UK - Samsung Upgrade Lounge and Members Upgrade</a></li>
