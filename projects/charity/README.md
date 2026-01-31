@@ -30,24 +30,37 @@
 
 ### :camera: Some of my photos
 
+<br />
+
+<!-- Videos -->
+
+<h4>Videos</h4>
+<!-- BEGIN YOUTUBE-CARDS -->
+
+[![Charity for children-in-need](https://ytcards.demolab.com/?id=ifD-T8wel7k&title=Charity+donations&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Charity for children-in-need")](https://youtube.com/shorts/ifD-T8wel7k)
+
+<!-- END YOUTUBE-CARDS -->
+
+<br />
+
 <div align="center"> 
-  <img src="/assets/superpower/charity1.jpg" alt="photo" />
+  <img src="/assets/superpower/charity1.jpg" alt="photo" width="400" height="auto"/>
 </div>
 <div align="center"> 
-  <img src="/assets/superpower/charity2.jpg" alt="photo" />
+  <img src="/assets/superpower/charity2.jpg" alt="photo" width="400" height="auto"/>
 </div>
 <div align="center"> 
-  <img src="/assets/superpower/charity3.jpg" alt="photo" />
+  <img src="/assets/superpower/charity3.jpg" alt="photo" width="400" height="auto"/>
 </div>
 <div align="center"> 
-  <img src="/assets/superpower/charity4.jpg" alt="photo" />
+  <img src="/assets/superpower/charity4.jpg" alt="photo" width="400" height="auto"/>
 </div>
 <div align="center"> 
-  <img src="/assets/superpower/charity5.jpg" alt="photo" />
+  <img src="/assets/superpower/charity5.jpg" alt="photo" width="400" height="auto"/>
 </div>
 <div align="center"> 
-  <img src="/assets/superpower/charity6_szeged.jpg" alt="photo" />
+  <img src="/assets/superpower/charity6_szeged.jpg" alt="photo" width="400" height="auto"/>
 </div>
 <div align="center"> 
-  <img src="/assets/superpower/charity7_ukranian_refugees.jpg" alt="photo" />
+  <img src="/assets/superpower/charity7_ukranian_refugees.jpg" alt="photo" width="400" height="auto"/>
 </div>

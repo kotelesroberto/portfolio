@@ -21,20 +21,20 @@
 ### :camera: Some of my photos
 
 <div align="center"> 
-  <img src="/assets/superpower/bicycle.jpg" alt="photo" />
+  <img src="/assets/superpower/bicycle.jpg" alt="photo" width="400" height="auto"/>
 </div>
 <div align="center"> 
-  <img src="/assets/superpower/bicycle2.jpg" alt="photo" />
+  <img src="/assets/superpower/bicycle2.jpg" alt="photo" width="400" height="auto"/>
 </div>
 <div align="center"> 
-  <img src="/assets/superpower/bicycle3.jpg" alt="photo" />
+  <img src="/assets/superpower/bicycle3.jpg" alt="photo" width="400" height="auto"/>
 </div>
 <div align="center"> 
-  <img src="/assets/superpower/bicycle4.jpg" alt="photo" />
+  <img src="/assets/superpower/bicycle4.jpg" alt="photo" width="400" height="auto"/>
 </div>
 <div align="center"> 
-  <img src="/assets/superpower/bicycle5.jpg" alt="photo" />
+  <img src="/assets/superpower/bicycle5.jpg" alt="photo" width="400" height="auto"/>
 </div>
 <div align="center"> 
-  <img src="/assets/superpower/bicycle6.jpg" alt="photo" />
+  <img src="/assets/superpower/bicycle6.jpg" alt="photo" width="400" height="auto"/>
 </div>
